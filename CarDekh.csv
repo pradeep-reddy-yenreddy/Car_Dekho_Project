@@ -1,0 +1,1614 @@
+,Car_Name,Car_Price,Car_Engine_Capacity,Car_Mileage
+0,Mahindra Thar AX Opt Hard Top Diesel RWD (Diesel),11.35 ,1497 ,15.2 
+1,Mahindra Thar LX Hard Top Diesel RWD (Diesel),12.85 ,1497 ,
+2,Mahindra Thar LX Hard Top AT RWD (Petrol),14.10 ,1997 ,
+3,Mahindra Thar AX Opt Convert Top (Petrol),14.30 ,1997 ,
+4,Mahindra Thar AX Opt Convert Top Diesel (Diesel),14.85 ,2184 ,15.2 
+5,Mahindra Thar AX Opt Hard Top Diesel (Diesel),,2184 ,15.2 
+6,Mahindra Thar LX Hard Top (Petrol),,1997 ,15.2 
+7,Mahindra Thar Earth Edition (Petrol),15.40 ,1997 ,15.2 
+8,Mahindra Thar LX Hard Top MLD Diesel (Diesel),15.55 ,2184 ,15.2 
+9,Mahindra Thar LX Convert Top Diesel (Diesel),15.75 ,2184 ,15.2 
+10,Mahindra Thar LX Hard Top Diesel (Diesel),15.75 ,2184 ,15.2 
+11,Mahindra Thar Earth Edition Diesel (Diesel),16.15 ,2184 ,15.2 
+12,Mahindra Thar LX Convert Top AT (Petrol),16.50 ,1997 ,15.2 
+13,Mahindra Thar LX Hard Top AT (Petrol),16.60 ,1997 ,
+14,Mahindra Thar Earth Edition AT (Petrol),,1997 ,
+15,Mahindra Thar LX Hard Top MLD Diesel AT (Diesel),,2184 ,
+16,Mahindra Thar LX Convert Top Diesel AT (Diesel),17.15 ,2184 ,
+17,Mahindra Thar LX Hard Top Diesel AT (Diesel),17.20 ,2184 ,
+18,Mahindra Thar Earth Edition Diesel AT (Diesel),17.60 ,2184 ,
+19,Maruti Swift LXi (Petrol),6.49 ,1197 ,24.8 
+20,Maruti Swift VXi (Petrol),7.29 ,1197 ,24.8 
+21,Maruti Swift VXi Opt (Petrol),7.57 ,1197 ,24.8 
+22,Maruti Swift VXi AMT (Petrol),7.75 ,1197 ,25.75 
+23,Maruti Swift VXi Opt AMT (Petrol),8.02 ,1197 ,25.75 
+24,Maruti Swift ZXi (Petrol),8.29 ,1197 ,24.8 
+25,Maruti Swift ZXi AMT (Petrol),8.74 ,1197 ,25.75 
+26,Maruti Swift ZXi Plus (Petrol),8.99 ,1197 ,24.8 
+27,Maruti Swift ZXi Plus DT (Petrol),9.14 ,1197 ,24.8 
+28,Maruti Swift ZXi Plus AMT (Petrol),9.45 ,1197 ,25.75 
+29,Maruti Swift ZXi Plus AMT DT (Petrol),9.59 ,1197 ,25.75 
+30,Mahindra Scorpio S (Diesel),13.62 ,2184 ,
+31,Mahindra Scorpio S 9 Seater (Diesel),13.87 ,2184 ,
+32,Mahindra Scorpio S 11 7CC (Diesel),17.42 ,2184 ,
+33,Mahindra Scorpio S 11 (Diesel),17.42 ,2184 ,
+34,Tata Punch Pure (Petrol),6.13 ,1199 ,20.09 
+35,Tata Punch Pure Rhythm (Petrol),6.38 ,1199 ,20.09 
+36,Tata Punch Adventure (Petrol),,1199 ,20.09 
+37,Tata Punch Pure CNG (CNG),7.23 ,1199 ,
+38,Tata Punch Adventure Rhythm (Petrol),7.35 ,1199 ,20.09 
+39,Tata Punch Adventure AMT (Petrol),7.60 ,1199 ,18.8 
+40,Tata Punch Accomplished (Petrol),7.85 ,1199 ,20.09 
+41,Tata Punch Adventure Rhythm AMT (Petrol),7.95 ,1199 ,18.8 
+42,Tata Punch Adventure CNG (CNG),7.95 ,1199 ,
+43,Tata Punch Adventure Rhythm CNG (CNG),8.30 ,1199 ,
+44,Tata Punch Accomplished S (Petrol),8.35 ,1199 ,20.09 
+45,Tata Punch Accomplished AMT (Petrol),8.45 ,1199 ,18.8 
+46,Tata Punch Accomplished Dazzle S (Petrol),8.75 ,1199 ,20.09 
+47,Tata Punch Accomplished Dazzle (Petrol),8.75 ,1199 ,20.09 
+48,Tata Punch Creative DT (Petrol),8.85 ,1199 ,20.09 
+49,Tata Punch Accomplished Dazzle AMT (Petrol),8.85 ,1199 ,18.8 
+50,Tata Punch Accomplished S AMT (Petrol),8.95 ,1199 ,18.8 
+51,Tata Punch Accomplished CNG (CNG),8.95 ,1199 ,
+52,Tata Punch Creative S DT (Petrol),9.30 ,1199 ,20.09 
+53,Tata Punch Accomplished Dazzle S AMT (Petrol),9.35 ,1199 ,18.8 
+54,Tata Punch Creative AMT DT (Petrol),9.45 ,1199 ,18.8 
+55,Tata Punch Creative Flagship DT (Petrol),9.60 ,1199 ,20.09 
+56,Tata Punch Accomplished Dazzle S CNG (CNG),9.85 ,1199 ,
+57,Tata Punch Creative S AMT DT (Petrol),9.90 ,1199 ,18.8 
+58,Tata Punch Creative Flagship AMT DT (Petrol),10.20 ,1199 ,18.8 
+59,Mahindra XUV700 MX 5Str (Petrol),13.99 ,1999 ,
+60,Mahindra XUV700 MX E 5Str (Petrol),14.49 ,1999 ,
+61,Mahindra XUV700 MX 7Str (Petrol),14.49 ,1999 ,
+62,Mahindra XUV700 MX 5Str Diesel (Diesel),14.59 ,2198 ,
+63,Mahindra XUV700 MX E 7Str (Petrol),14.99 ,1999 ,
+64,Mahindra XUV700 MX 7Str Diesel (Diesel),14.99 ,2198 ,
+65,Mahindra XUV700 MX E 5Str Diesel (Diesel),15.09 ,2198 ,
+66,Mahindra XUV700 MX E 7Str Diesel (Diesel),15.49 ,2198 ,
+67,Mahindra XUV700 AX3 5Str (Petrol),16.39 ,1999 ,
+68,Mahindra XUV700 AX5 S 7 Str (Petrol),16.89 ,1999 ,
+69,Mahindra XUV700 AX3 E 5Str (Petrol),16.89 ,1999 ,
+70,Mahindra XUV700 AX3 5Str Diesel (Diesel),16.99 ,2198 ,
+71,Mahindra XUV700 AX5 S E 7Str (Petrol),17.39 ,1999 ,
+72,Mahindra XUV700 AX5 S 7 Str Diesel (Diesel),17.49 ,2198 ,
+73,Mahindra XUV700 AX3 E 5Str Diesel (Diesel),17.49 ,2198 ,
+74,Mahindra XUV700 AX5 5Str (Petrol),17.69 ,1999 ,
+75,Mahindra XUV700 AX5 S E 7Str Diesel (Diesel),17.99 ,2198 ,
+76,Mahindra XUV700 AX3 5Str AT (Petrol),17.99 ,1999 ,
+77,Mahindra XUV700 AX5 E 5Str (Petrol),18.19 ,1999 ,
+78,Mahindra XUV700 AX5 7 Str (Petrol),18.19 ,1999 ,
+79,Mahindra XUV700 AX5 5Str Diesel (Diesel),18.29 ,2198 ,
+80,Mahindra XUV700 AX5 S 7 Str AT (Petrol),18.49 ,1999 ,
+81,Mahindra XUV700 AX3 5Str Diesel AT (Diesel),18.59 ,2198 ,16.57 
+82,Mahindra XUV700 AX5 E 7 Str (Petrol),18.69 ,1999 ,
+83,Mahindra XUV700 AX5 7 Str Diesel (Diesel),18.79 ,2198 ,
+84,Mahindra XUV700 AX5 S 7 Str Diesel AT (Diesel),18.99 ,2198 ,16.57 
+85,Mahindra XUV700 AX5 5Str AT (Petrol),19.29 ,1999 ,
+86,Mahindra XUV700 AX7 7Str (Petrol),19.49 ,1999 ,
+87,Mahindra XUV700 AX7 6 Str (Petrol),19.69 ,1999 ,
+88,Mahindra XUV700 AX5 7 Str AT (Petrol),19.79 ,1999 ,
+89,Mahindra XUV700 AX5 5Str Diesel AT (Diesel),19.89 ,2198 ,16.57 
+90,Mahindra XUV700 AX7 7Str Diesel (Diesel),19.99 ,2198 ,
+91,Mahindra XUV700 AX7 6 Str Diesel (Diesel),20.19 ,2198 ,
+92,Mahindra XUV700 AX5 7 Str Diesel AT (Diesel),20.39 ,2198 ,16.57 
+93,Mahindra XUV700 AX7 7Str AT (Petrol),20.99 ,1999 ,
+94,Mahindra XUV700 AX7 6Str AT (Petrol),21.19 ,1999 ,
+95,Mahindra XUV700 AX7 7Str Diesel AT (Diesel),21.59 ,2198 ,16.57 
+96,Mahindra XUV700 AX7 6 Str Diesel AT (Diesel),21.79 ,2198 ,16.57 
+97,Mahindra XUV700 AX7L 7Str Diesel (Diesel),22.49 ,2198 ,
+98,Mahindra XUV700 AX7L 6Str Diesel (Diesel),22.69 ,2198 ,
+99,Mahindra XUV700 AX7 7Str Diesel AT AWD (Diesel),22.79 ,2198 ,16.57 
+100,Mahindra XUV700 AX7L 7Str AT (Petrol),23.49 ,1999 ,
+101,Mahindra XUV700 AX7L 6Str AT (Petrol),23.69 ,1999 ,
+102,Mahindra XUV700 AX7L 7Str Diesel AT (Diesel),23.99 ,2198 ,16.57 
+103,Mahindra XUV700 AX7L Blaze Edition Diesel (Diesel),24.24 ,2198 ,
+104,Mahindra XUV700 AX7L 7Str Diesel AT AWD (Diesel),24.99 ,2198 ,16.57 
+105,Mahindra XUV700 AX7L Blaze Edition AT (Petrol),25.54 ,2198 ,
+106,Mahindra XUV700 AX7L 6Str Diesel AT (Diesel),25.99 ,2198 ,16.57 
+107,Mahindra XUV700 AX7L Blaze Edition Diesel AT (Diesel),26.04 ,2198 ,16.57 
+108,Hyundai Creta E (Petrol),,1497 ,17.4 
+109,Hyundai Creta EX (Petrol),12.21 ,1497 ,17.4 
+110,Hyundai Creta E Diesel (Diesel),12.56 ,1493 ,21.8 
+111,Hyundai Creta S (Petrol),13.43 ,1497 ,17.4 
+112,Hyundai Creta EX Diesel (Diesel),13.78 ,1493 ,21.8 
+113,Hyundai Creta S (O) (Petrol),14.36 ,1497 ,17.4 
+114,Hyundai Creta S Diesel (Diesel),,1493 ,21.8 
+115,Hyundai Creta SX (Petrol),15.30 ,1497 ,17.4 
+116,Hyundai Creta SX DT (Petrol),15.45 ,1497 ,17.4 
+117,Hyundai Creta S (O) iVT (Petrol),15.86 ,1497 ,17.7 
+118,Hyundai Creta S (O) Diesel (Diesel),15.93 ,1493 ,21.8 
+119,Hyundai Creta SX Tech (Petrol),15.98 ,1497 ,17.4 
+120,Hyundai Creta SX Tech DT (Petrol),16.13 ,1497 ,17.4 
+121,Hyundai Creta SX (O) (Petrol),17.27 ,1497 ,17.4 
+122,Hyundai Creta SX (O) DT (Petrol),17.42 ,1497 ,17.4 
+123,Hyundai Creta S (O) Diesel AT (Diesel),17.43 ,1493 ,19.1 
+124,Hyundai Creta SX Tech iVT (Petrol),17.48 ,1497 ,17.7 
+125,Hyundai Creta SX Tech Diesel (Diesel),17.56 ,1493 ,21.8 
+126,Hyundai Creta SX Tech iVT DT (Petrol),17.63 ,1497 ,17.7 
+127,Hyundai Creta SX Tech Diesel DT (Diesel),17.71 ,1493 ,21.8 
+128,Hyundai Creta SX (O) iVT (Petrol),18.73 ,1497 ,17.7 
+129,Hyundai Creta SX (O) Diesel (Diesel),18.85 ,1493 ,21.8 
+130,Hyundai Creta SX (O) iVT DT (Petrol),18.88 ,1497 ,17.7 
+131,Hyundai Creta SX (O) Diesel DT (Diesel),,1493 ,21.8 
+132,Hyundai Creta SX (O) Diesel AT (Diesel),,1493 ,19.1 
+133,Hyundai Creta SX (O) Turbo DCT (Petrol),,1482 ,18.4 
+134,Hyundai Creta SX (O) Turbo DCT DT (Petrol),20.15 ,1482 ,18.4 
+135,Hyundai Creta SX (O) Diesel AT DT (Diesel),20.15 ,1493 ,19.1 
+136,Mahindra XUV 3XO MX1 (Petrol),7.49 ,1197 ,18.89 
+137,Mahindra XUV 3XO MX2 Pro (Petrol),8.99 ,1197 ,18.89 
+138,Mahindra XUV 3XO MX3 (Petrol),9.49 ,1197 ,18.89 
+139,Mahindra XUV 3XO MX3 Pro (Petrol),9.99 ,1197 ,18.89 
+140,Mahindra XUV 3XO MX2 diesel (Diesel),9.99 ,1498 ,
+141,Mahindra XUV 3XO MX2 Pro AT (Petrol),9.99 ,1197 ,17.96 
+142,Mahindra XUV 3XO MX2 Pro Diesel (Diesel),10.39 ,1498 ,
+143,Mahindra XUV 3XO AX5 (Petrol),10.69 ,1197 ,18.89 
+144,Mahindra XUV 3XO MX3 Diesel (Diesel),10.89 ,1498 ,
+145,Mahindra XUV 3XO MX3 AT (Petrol),10.99 ,1197 ,17.96 
+146,Mahindra XUV 3XO MX3 Pro Diesel (Diesel),11.39 ,1498 ,
+147,Mahindra XUV 3XO MX3 Pro AT (Petrol),11.49 ,1197 ,17.96 
+148,Mahindra XUV 3XO MX3 Diesel AMT (Diesel),11.69 ,1498 ,
+149,Mahindra XUV 3XO AX5 L Turbo (Petrol),11.99 ,1197 ,20.1 
+150,Mahindra XUV 3XO AX5 Diesel (Diesel),12.09 ,1497 ,20.6 
+151,Mahindra XUV 3XO AX5 AT (Petrol),12.19 ,1197 ,17.96 
+152,Mahindra XUV 3XO AX7 Turbo (Petrol),12.49 ,1197 ,20.1 
+153,Mahindra XUV 3XO AX5 Diesel AMT (Diesel),12.89 ,1498 ,20.6 
+154,Mahindra XUV 3XO AX5 L Turbo AT (Petrol),13.49 ,1197 ,18.2 
+155,Mahindra XUV 3XO AX7 Diesel (Diesel),13.69 ,1498 ,
+156,Mahindra XUV 3XO AX7 Turbo AT (Petrol),13.99 ,1197 ,18.2 
+157,Mahindra XUV 3XO AX7 L Turbo (Petrol),13.99 ,1197 ,20.1 
+158,Mahindra XUV 3XO AX7 Diesel AMT (Diesel),14.49 ,1498 ,
+159,Mahindra XUV 3XO AX7 L Diesel (Diesel),14.99 ,1498 ,
+160,Mahindra XUV 3XO AX7 L Turbo AT (Petrol),15.49 ,1197 ,18.2 
+161,Tata Nexon Smart Opt (Petrol),,1199 ,17.44 
+162,Tata Nexon Smart (Petrol),8.15 ,1199 ,17.44 
+163,Tata Nexon Smart Plus (Petrol),8.90 ,1199 ,17.44 
+164,Tata Nexon Smart Plus S (Petrol),9.40 ,1199 ,17.44 
+165,Tata Nexon Smart Plus AMT (Petrol),9.70 ,1199 ,17.18 
+166,Tata Nexon Pure (Petrol),9.80 ,1199 ,17.44 
+167,Tata Nexon Smart Plus Diesel (Diesel),,1497 ,23.23 
+168,Tata Nexon Pure S (Petrol),10.30 ,1199 ,17.44 
+169,Tata Nexon Smart Plus S Diesel (Diesel),10.50 ,1497 ,23.23 
+170,Tata Nexon Pure AMT (Petrol),10.50 ,1199 ,17.18 
+171,Tata Nexon Pure S AMT (Petrol),,1199 ,17.18 
+172,Tata Nexon Pure Diesel (Diesel),11.10 ,1497 ,23.23 
+173,Tata Nexon Creative (Petrol),11.10 ,1199 ,17.44 
+174,Tata Nexon Creative DT (Petrol),11.20 ,1199 ,17.44 
+175,Tata Nexon Creative Dark (Petrol),11.45 ,1199 ,17.44 
+176,Tata Nexon Pure S Diesel (Diesel),11.60 ,1497 ,23.23 
+177,Tata Nexon Pure Diesel AMT (Diesel),11.80 ,1497 ,24.08 
+178,Tata Nexon Creative Plus (Petrol),11.80 ,1199 ,17.44 
+179,Tata Nexon Creative AMT (Petrol),11.80 ,1199 ,17.18 
+180,Tata Nexon Creative Plus DT (Petrol),11.90 ,1199 ,17.44 
+181,Tata Nexon Creative DT AMT (Petrol),11.90 ,1199 ,17.18 
+182,Tata Nexon Creative Plus Dark (Petrol),12.15 ,1199 ,17.44 
+183,Tata Nexon Creative Dark AMT (Petrol),12.15 ,1199 ,17.18 
+184,Tata Nexon Pure S Diesel AMT (Diesel),12.30 ,1497 ,24.08 
+185,Tata Nexon Creative Plus S (Petrol),12.30 ,1199 ,17.44 
+186,Tata Nexon Creative DCA (Petrol),12.30 ,1199 ,17.01 
+187,Tata Nexon Creative Plus S DT (Petrol),12.40 ,1199 ,17.44 
+188,Tata Nexon Creative DT DCA (Petrol),12.40 ,1199 ,17.01 
+189,Tata Nexon Creative Plus AMT (Petrol),12.50 ,1199 ,17.18 
+190,Tata Nexon Creative Diesel (Diesel),12.50 ,1497 ,23.23 
+191,Tata Nexon FearlessPR DT (Petrol),12.60 ,1199 ,17.44 
+192,Tata Nexon Fearless DT (Petrol),12.60 ,1199 ,17.44 
+193,Tata Nexon Creative Plus DT AMT (Petrol),12.60 ,1199 ,17.18 
+194,Tata Nexon Creative DT Diesel (Diesel),12.60 ,1497 ,23.23 
+195,Tata Nexon Creative Plus S Dark (Petrol),12.65 ,1199 ,17.44 
+196,Tata Nexon Creative Dark DCA (Petrol),12.65 ,1199 ,17.01 
+197,Tata Nexon Creative Plus Dark AMT (Petrol),12.85 ,1199 ,17.18 
+198,Tata Nexon Creative Dark Diesel (Diesel),12.85 ,1497 ,23.23 
+199,Tata Nexon Fearless Dark (Petrol),12.95 ,1199 ,17.44 
+200,Tata Nexon Creative Plus S AMT (Petrol),,1199 ,17.18 
+201,Tata Nexon Creative Plus DCA (Petrol),,1199 ,17.01 
+202,Tata Nexon FearlessPR S DT (Petrol),13.10 ,1199 ,17.44 
+203,Tata Nexon FearlessPR Plus DT (Petrol),13.10 ,1199 ,17.44 
+204,Tata Nexon Fearless S DT (Petrol),13.10 ,1199 ,17.44 
+205,Tata Nexon Fearless Plus DT (Petrol),13.10 ,1199 ,17.44 
+206,Tata Nexon Creative Plus S DT AMT (Petrol),13.10 ,1199 ,17.18 
+207,Tata Nexon Creative Plus DT DCA (Petrol),13.10 ,1199 ,17.01 
+208,Tata Nexon Creative Diesel AMT (Diesel),13.10 ,1497 ,24.08 
+209,Tata Nexon Creative Plus Diesel (Diesel),13.20 ,1497 ,23.23 
+210,Tata Nexon Creative DT Diesel AMT (Diesel),13.20 ,1497 ,24.08 
+211,Tata Nexon Creative Plus DT Diesel (Diesel),13.30 ,1497 ,23.23 
+212,Tata Nexon Creative Plus S Dark AMT (Petrol),13.35 ,1199 ,17.18 
+213,Tata Nexon Creative Plus Dark DCA (Petrol),13.35 ,1199 ,17.01 
+214,Tata Nexon Creative Dark Diesel AMT (Diesel),13.45 ,1497 ,24.08 
+215,Tata Nexon Creative Plus S DCA (Petrol),13.50 ,1199 ,17.01 
+216,Tata Nexon Creative Plus Dark Diesel (Diesel),13.55 ,1497 ,23.23 
+217,Tata Nexon FearlessPR Plus S DT (Petrol),13.60 ,1199 ,17.44 
+218,Tata Nexon Fearless Plus S DT (Petrol),13.60 ,1199 ,17.44 
+219,Tata Nexon Creative Plus S DT DCA (Petrol),13.60 ,1199 ,17.01 
+220,Tata Nexon Creative Plus S Diesel (Diesel),13.70 ,1497 ,23.23 
+221,Tata Nexon FearlessPR DT DCA (Petrol),13.80 ,1199 ,17.01 
+222,Tata Nexon Fearless Plus S Dark (Petrol),13.80 ,1199 ,17.44 
+223,Tata Nexon Fearless DT DCA (Petrol),13.80 ,1199 ,17.01 
+224,Tata Nexon Creative Plus S DT Diesel (Diesel),13.80 ,1497 ,23.23 
+225,Tata Nexon Creative Plus S Dark DCA (Petrol),13.85 ,1199 ,17.01 
+226,Tata Nexon Creative Plus Diesel AMT (Diesel),13.90 ,1497 ,24.08 
+227,Tata Nexon FearlessPR DT Diesel (Diesel),,1497 ,23.23 
+228,Tata Nexon Fearless DT Diesel (Diesel),,1497 ,23.23 
+229,Tata Nexon Creative Plus DT Diesel AMT (Diesel),,1497 ,24.08 
+230,Tata Nexon Creative Plus S Dark Diesel (Diesel),14.05 ,1497 ,23.23 
+231,Tata Nexon Fearless Dark DCA (Petrol),14.15 ,1199 ,17.01 
+232,Tata Nexon Creative Plus Dark Diesel AMT (Diesel),14.25 ,1497 ,24.08 
+233,Tata Nexon FearlessPR S DT DCA (Petrol),14.30 ,1199 ,17.01 
+234,Tata Nexon FearlessPR Plus DT DCA (Petrol),14.30 ,1199 ,17.01 
+235,Tata Nexon Fearless S DT DCA (Petrol),14.30 ,1199 ,17.01 
+236,Tata Nexon Fearless Plus DT DCA (Petrol),14.30 ,1199 ,17.01 
+237,Tata Nexon Fearless Dark Diesel (Diesel),14.35 ,1497 ,23.23 
+238,Tata Nexon Creative Plus S Diesel AMT (Diesel),14.40 ,1497 ,24.08 
+239,Tata Nexon FearlessPR S DT Diesel (Diesel),14.50 ,1497 ,23.23 
+240,Tata Nexon FearlessPR Plus DT Diesel (Diesel),14.50 ,1497 ,23.23 
+241,Tata Nexon Fearless S DT Diesel (Diesel),14.50 ,1497 ,23.23 
+242,Tata Nexon Fearless Plus DT Diesel (Diesel),14.50 ,1497 ,23.23 
+243,Tata Nexon Creative Plus S DT Diesel AMT (Diesel),14.50 ,1497 ,24.08 
+244,Tata Nexon FearlessPR DT Diesel AMT (Diesel),14.70 ,1497 ,24.08 
+245,Tata Nexon Fearless DT Diesel AMT (Diesel),14.70 ,1497 ,24.08 
+246,Tata Nexon Creative Plus S Dark Diesel AMT (Diesel),14.75 ,1497 ,24.08 
+247,Tata Nexon FearlessPR Plus S DT DCA (Petrol),14.80 ,1199 ,17.01 
+248,Tata Nexon Fearless Plus S DT DCA (Petrol),14.80 ,1199 ,17.01 
+249,Tata Nexon FearlessPR Plus S DT Diesel (Diesel),,1497 ,23.23 
+250,Tata Nexon Fearless Plus S Dark DCA (Petrol),,1199 ,17.01 
+251,Tata Nexon Fearless Plus S DT Diesel (Diesel),,1497 ,23.23 
+252,Tata Nexon Fearless Dark Diesel AMT (Diesel),15.05 ,1497 ,24.08 
+253,Tata Nexon FearlessPR S DT Diesel AMT (Diesel),15.10 ,1497 ,24.08 
+254,Tata Nexon FearlessPR Plus DT Diesel AMT (Diesel),15.10 ,1497 ,24.08 
+255,Tata Nexon Fearless S DT Diesel AMT (Diesel),15.10 ,1497 ,24.08 
+256,Tata Nexon Fearless Plus DT Diesel AMT (Diesel),15.10 ,1497 ,24.08 
+257,Tata Nexon Fearless Plus S Dark Diesel (Diesel),15.20 ,1497 ,23.23 
+258,Tata Nexon FearlessPR Plus S DT Diesel AMT (Diesel),15.60 ,1497 ,24.08 
+259,Tata Nexon Fearless Plus S DT Diesel AMT (Diesel),15.60 ,1497 ,24.08 
+260,Tata Nexon Fearless Plus S Dark Diesel AMT (Diesel),15.80 ,1497 ,24.08 
+261,Maruti Brezza Lxi (Petrol),8.34 ,1462 ,17.38 
+262,Maruti Brezza Lxi CNG (CNG),9.29 ,1462 ,
+263,Maruti Brezza Vxi (Petrol),9.70 ,1462 ,17.38 
+264,Maruti Brezza Vxi CNG (CNG),10.64 ,1462 ,
+265,Maruti Brezza Vxi AT (Petrol),11.10 ,1462 ,19.8 
+266,Maruti Brezza Zxi (Petrol),11.14 ,1462 ,19.89 
+267,Maruti Brezza Zxi DT (Petrol),11.30 ,1462 ,19.89 
+268,Maruti Brezza Zxi CNG (CNG),12.10 ,1462 ,
+269,Maruti Brezza Zxi CNG DT (CNG),12.26 ,1462 ,
+270,Maruti Brezza Zxi AT (Petrol),12.54 ,1462 ,19.8 
+271,Maruti Brezza Zxi Plus (Petrol),12.58 ,1462 ,19.89 
+272,Maruti Brezza Zxi AT DT (Petrol),12.71 ,1462 ,19.8 
+273,Maruti Brezza Zxi Plus DT (Petrol),12.74 ,1462 ,19.89 
+274,Maruti Brezza Zxi Plus AT (Petrol),13.98 ,1462 ,19.8 
+275,Maruti Brezza Zxi Plus AT DT (Petrol),14.14 ,1462 ,19.8 
+276,Toyota Fortuner 4X2 (Petrol),33.43 ,2694 ,
+277,Toyota Fortuner 4X2 AT (Petrol),35.02 ,2694 ,
+278,Toyota Fortuner 4X2 Diesel (Diesel),35.93 ,2755 ,
+279,Toyota Fortuner 4X2 Diesel AT (Diesel),38.21 ,2755 ,
+280,Toyota Fortuner 4X4 Diesel (Diesel),40.03 ,2755 ,
+281,Toyota Fortuner 4X4 Diesel AT (Diesel),42.32 ,2755 ,
+282,Toyota Fortuner GR S 4X4 Diesel AT (Diesel),51.44 ,2755 ,
+283,Toyota Innova Crysta 2.4 GX 8Str (Diesel),19.99 ,2393 ,
+284,Toyota Innova Crysta 2.4 GX 7Str (Diesel),19.99 ,2393 ,
+285,Toyota Innova Crysta 2.4 GX Plus 7Str (Diesel),21.39 ,2393 ,
+286,Toyota Innova Crysta 2.4 GX Plus 8Str (Diesel),21.44 ,2393 ,
+287,Toyota Innova Crysta 2.4 VX 7Str (Diesel),24.89 ,2393 ,
+288,Toyota Innova Crysta 2.4 VX 8Str (Diesel),24.94 ,2393 ,
+289,Toyota Innova Crysta 2.4 Zx 7Str (Diesel),26.55 ,2393 ,
+290,Land Rover Defender 2.0 110 SE (Petrol),,1997 ,9.2 
+291,Land Rover Defender 2.0 90 HSE (Petrol),98.50 ,1997 ,9.3 
+292,Land Rover Defender 2.0 110 HSE (Petrol),,1997 ,9.2 
+293,Land Rover Defender 3.0 l Diesel 90 HSE (Diesel),,2997 ,13.2 
+294,Land Rover Defender 3.0 l 110 HSE (Petrol),,2996 ,8.7 
+295,Land Rover Defender 3.0 Diesel 110 HSE (Diesel),,2997 ,11.5 
+296,Land Rover Defender 3.0 Diesel 110 X-Dynamic HSE (Diesel),,2997 ,11.5 
+297,Land Rover Defender 3.0 90 X (Petrol),,2996 ,8.9 
+298,Land Rover Defender 3.0 Diesel 110 X (Diesel),,2997 ,11.5 
+299,Land Rover Defender 3.0 110 X (Petrol),,2996 ,8.7 
+300,Land Rover Defender 3.0 l Diesel 130 HSE (Diesel),,2997 ,11.4 
+301,Land Rover Defender 3.0 l 130 HSE (Petrol),,2996 ,8.8 
+302,Land Rover Defender 3.0 Diesel 130 Outbound (Diesel),,2997 ,11.4 
+303,Land Rover Defender 3.0 130 Outbound (Petrol),,2996 ,8.8 
+304,Land Rover Defender 3.0 l Diesel 130 X (Diesel),,2997 ,11.4 
+305,Land Rover Defender 3.0 l 130 X (Petrol),,2996 ,8.8 
+306,Land Rover Defender 2.0 l 110 X PHEV (Petrol),,1997 ,
+307,Land Rover Defender 5.0 90 V8 (Petrol),,4999 ,6.8 
+308,Land Rover Defender 5.0 90 Carpathian (Petrol),,4999 ,6.8 
+309,Land Rover Defender 5.0 110 V8 (Petrol),,4999 ,6.8 
+310,Land Rover Defender 5.0 110 Carpathian (Petrol),,4999 ,6.8 
+311,Land Rover Defender 5.0 130 V8 (Petrol),,4999 ,6.8 
+312,Land Rover Defender Octa (Petrol),,4367 ,
+313,Land Rover Defender Octa Edition One (Petrol),,4367 ,
+314,Maruti Ertiga Lxi (O) (Petrol),8.69 ,1462 ,20.51 
+315,Maruti Ertiga VXi (O) (Petrol),9.83 ,1462 ,20.51 
+316,Maruti Ertiga VXi (O) CNG (CNG),10.78 ,1462 ,
+317,Maruti Ertiga Zxi (O) (Petrol),10.93 ,1462 ,20.51 
+318,Maruti Ertiga VXI AT (Petrol),11.23 ,1462 ,20.3 
+319,Maruti Ertiga ZXI Plus (Petrol),11.63 ,1462 ,20.51 
+320,Maruti Ertiga ZXI (O) CNG (CNG),11.88 ,1462 ,
+321,Maruti Ertiga ZXI AT (Petrol),12.33 ,1462 ,20.3 
+322,Maruti Ertiga ZXI Plus AT (Petrol),13.03 ,1462 ,20.3 
+323,Maruti FRONX Sigma (Petrol),7.51 ,1197 ,21.79 
+324,Maruti FRONX Delta (Petrol),8.38 ,1197 ,21.79 
+325,Maruti FRONX Delta CNG (CNG),8.46 ,1197 ,
+326,Maruti FRONX Delta Plus (Petrol),8.78 ,1197 ,21.79 
+327,Maruti FRONX Delta AMT (Petrol),8.82 ,1197 ,22.89 
+328,Maruti FRONX Delta Plus Opt (Petrol),8.93 ,1197 ,21.79 
+329,Maruti FRONX Delta Plus AMT (Petrol),9.22 ,1197 ,22.89 
+330,Maruti FRONX Sigma CNG (CNG),9.32 ,1197 ,
+331,Maruti FRONX Delta Plus Opt AMT (Petrol),9.38 ,1197 ,22.89 
+332,Maruti FRONX Delta Plus Turbo (Petrol),9.72 ,998 ,21.5 
+333,Maruti FRONX Zeta Turbo (Petrol),10.55 ,998 ,21.5 
+334,Maruti FRONX Alpha Turbo (Petrol),11.47 ,998 ,21.5 
+335,Maruti FRONX Alpha Turbo DT (Petrol),11.63 ,998 ,21.5 
+336,Maruti FRONX Zeta Turbo AT (Petrol),11.96 ,998 ,20.01 
+337,Maruti FRONX Alpha Turbo AT (Petrol),12.88 ,998 ,20.01 
+338,Maruti FRONX Alpha Turbo DT AT (Petrol),13.04 ,998 ,20.01 
+339,Mahindra Bolero B4 (Diesel),9.79 ,1493 ,
+340,Mahindra Bolero B6 (Diesel),,1493 ,
+341,Mahindra Bolero B6 Opt (Diesel),10.91 ,1493 ,
+342,Land Rover Range Rover 3.0 I Diesel LWB HSE (Diesel),,2997 ,13.16 
+343,Land Rover Range Rover 3.0 I LWB Autobiography (Petrol),,2996 ,10.42 
+344,Hyundai Verna EX (Petrol),,1497 ,18.6 
+345,Hyundai Verna S (Petrol),11.99 ,1497 ,18.6 
+346,Hyundai Verna SX (Petrol),13.02 ,1497 ,18.6 
+347,Hyundai Verna SX IVT (Petrol),14.27 ,1497 ,19.6 
+348,Hyundai Verna SX Opt (Petrol),14.70 ,1497 ,18.6 
+349,Hyundai Verna SX Turbo DT (Petrol),14.87 ,1482 ,
+350,Hyundai Verna SX Turbo (Petrol),14.87 ,1482 ,
+351,Hyundai Verna SX Opt Turbo DT (Petrol),16.03 ,1482 ,
+352,Hyundai Verna SX Opt Turbo (Petrol),16.03 ,1482 ,
+353,Hyundai Verna SX Turbo DCT DT (Petrol),16.12 ,1482 ,20.6 
+354,Hyundai Verna SX Turbo DCT (Petrol),16.12 ,1482 ,20.6 
+355,Hyundai Verna SX Opt IVT (Petrol),16.23 ,1497 ,19.6 
+356,Hyundai Verna SX Opt Turbo DCT DT (Petrol),17.42 ,1482 ,20.6 
+357,Hyundai Verna SX Opt Turbo DCT (Petrol),17.42 ,1482 ,20.6 
+358,Mahindra Scorpio N Z2 (Petrol),13.85 ,1997 ,
+359,Mahindra Scorpio N Z2 Diesel (Diesel),14.25 ,2198 ,
+360,Mahindra Scorpio N Z2 E (Petrol),14.35 ,1997 ,
+361,Mahindra Scorpio N Z2 Diesel E (Diesel),14.75 ,2198 ,
+362,Mahindra Scorpio N Z4 (Petrol),15.49 ,1997 ,
+363,Mahindra Scorpio N Z4 Diesel (Diesel),15.90 ,2198 ,
+364,Mahindra Scorpio N Z4 E (Petrol),15.99 ,1997 ,
+365,Mahindra Scorpio N Z4 Diesel E (Diesel),16.40 ,2198 ,
+366,Mahindra Scorpio N Z6 Diesel (Diesel),16.86 ,2198 ,
+367,Mahindra Scorpio N Z4 AT (Petrol),17.05 ,1997 ,
+368,Mahindra Scorpio N Z8 Select (Petrol),17.09 ,1997 ,
+369,Mahindra Scorpio N Z4 Diesel AT (Diesel),17.55 ,2198 ,
+370,Mahindra Scorpio N Z4 Diesel 4x4 (Diesel),18.01 ,2198 ,
+371,Mahindra Scorpio N Z8 Select Diesel (Diesel),18.09 ,2198 ,
+372,Mahindra Scorpio N Z4 Diesel E 4x4 (Diesel),18.51 ,2198 ,
+373,Mahindra Scorpio N Z6 Diesel AT (Diesel),18.55 ,2198 ,
+374,Mahindra Scorpio N Z8 Select AT (Petrol),18.59 ,1997 ,
+375,Mahindra Scorpio N Z8 (Petrol),18.74 ,1997 ,
+376,Mahindra Scorpio N Z8 Select Diesel AT (Diesel),19.09 ,2198 ,
+377,Mahindra Scorpio N Z8 Diesel (Diesel),19.20 ,2198 ,
+378,Mahindra Scorpio N Z8 AT (Petrol),20.25 ,1997 ,
+379,Mahindra Scorpio N Z8L (Petrol),20.37 ,1997 ,
+380,Mahindra Scorpio N Z8L 6 Str (Petrol),20.62 ,1997 ,
+381,Mahindra Scorpio N Z8 Diesel AT (Diesel),20.73 ,2198 ,
+382,Mahindra Scorpio N Z8L Diesel (Diesel),20.78 ,2198 ,
+383,Mahindra Scorpio N Z8L 6 Str Diesel (Diesel),21.12 ,2198 ,
+384,Mahindra Scorpio N Z8 Diesel 4x4 (Diesel),21.37 ,2198 ,
+385,Mahindra Scorpio N Z8L AT (Petrol),21.79 ,1997 ,
+386,Mahindra Scorpio N Z8L 6 Str AT (Petrol),21.98 ,1997 ,
+387,Mahindra Scorpio N Z8L Diesel AT (Diesel),22.24 ,2198 ,
+388,Mahindra Scorpio N Z8L 6 Str Diesel AT (Diesel),22.48 ,2198 ,
+389,Mahindra Scorpio N Z8L Diesel 4x4 (Diesel),22.98 ,2198 ,
+390,Mahindra Scorpio N Z8 Diesel 4x4 AT (Diesel),23.09 ,2198 ,
+391,Mahindra Scorpio N Z8L Diesel 4x4 AT (Diesel),24.54 ,2198 ,
+392,Maruti Baleno Sigma (Petrol),6.66 ,1197 ,22.35 
+393,Maruti Baleno Delta (Petrol),7.50 ,1197 ,22.35 
+394,Maruti Baleno Delta AMT (Petrol),7.95 ,1197 ,22.94 
+395,Maruti Baleno Delta CNG (CNG),8.40 ,1197 ,
+396,Maruti Baleno Zeta (Petrol),8.43 ,1197 ,22.35 
+397,Maruti Baleno Zeta AMT (Petrol),8.88 ,1197 ,22.94 
+398,Maruti Baleno Zeta CNG (CNG),9.33 ,1197 ,
+399,Maruti Baleno Alpha (Petrol),9.38 ,1197 ,22.35 
+400,Maruti Baleno Alpha AMT (Petrol),9.83 ,1197 ,22.94 
+401,Tata Harrier Smart (Diesel),14.99 ,1956 ,16.8 
+402,Tata Harrier Smart (O) (Diesel),15.99 ,1956 ,16.8 
+403,Tata Harrier Pure (Diesel),16.99 ,1956 ,16.8 
+404,Tata Harrier Pure (O) (Diesel),17.49 ,1956 ,16.8 
+405,Tata Harrier Pure Plus (Diesel),18.69 ,1956 ,16.8 
+406,Tata Harrier Pure Plus S (Diesel),19.69 ,1956 ,16.8 
+407,Tata Harrier Pure Plus S Dark (Diesel),19.99 ,1956 ,16.8 
+408,Tata Harrier Pure Plus AT (Diesel),19.99 ,1956 ,16.8 
+409,Tata Harrier Adventure (Diesel),20.19 ,1956 ,16.8 
+410,Tata Harrier Pure Plus S AT (Diesel),21.09 ,1956 ,16.8 
+411,Tata Harrier Pure Plus S Dark AT (Diesel),21.39 ,1956 ,16.8 
+412,Tata Harrier Adventure Plus (Diesel),21.69 ,1956 ,16.8 
+413,Tata Harrier Adventure Plus Dark (Diesel),22.24 ,1956 ,16.8 
+414,Tata Harrier Adventure Plus A (Diesel),22.69 ,1956 ,16.8 
+415,Tata Harrier Fearless (Diesel),22.99 ,1956 ,16.8 
+416,Tata Harrier Adventure Plus AT (Diesel),23.09 ,1956 ,16.8 
+417,Tata Harrier Fearless Dark (Diesel),23.54 ,1956 ,16.8 
+418,Tata Harrier Adventure Plus Dark AT (Diesel),23.64 ,1956 ,16.8 
+419,Tata Harrier Adventure Plus A AT (Diesel),24.09 ,1956 ,16.8 
+420,Tata Harrier Fearless AT (Diesel),24.39 ,1956 ,16.8 
+421,Tata Harrier Fearless Plus (Diesel),24.49 ,1956 ,16.8 
+422,Tata Harrier Fearless Dark AT (Diesel),24.94 ,1956 ,16.8 
+423,Tata Harrier Fearless Plus Dark (Diesel),25.04 ,1956 ,16.8 
+424,Tata Harrier Fearless Plus AT (Diesel),25.89 ,1956 ,16.8 
+425,Tata Harrier Fearless Plus Dark AT (Diesel),26.44 ,1956 ,16.8 
+426,Kia Seltos HTE (Petrol),10.90 ,1497 ,
+427,Kia Seltos HTK (Petrol),12.24 ,1497 ,
+428,Kia Seltos HTE Diesel (Diesel),12.35 ,1493 ,20.7 
+429,Kia Seltos HTK Diesel (Diesel),13.68 ,1493 ,20.7 
+430,Kia Seltos HTK Plus (Petrol),14.06 ,1497 ,
+431,Kia Seltos HTX (Petrol),15.30 ,1497 ,
+432,Kia Seltos HTK Plus IVT (Petrol),15.42 ,1497 ,17.7 
+433,Kia Seltos HTK Plus Turbo iMT (Petrol),15.45 ,1482 ,17.7 
+434,Kia Seltos HTK Plus Diesel (Diesel),15.55 ,1493 ,20.7 
+435,Kia Seltos HTX IVT (Petrol),16.72 ,1497 ,17.7 
+436,Kia Seltos HTX Diesel (Diesel),16.80 ,1493 ,
+437,Kia Seltos HTK Plus Diesel AT (Diesel),16.92 ,1493 ,20.7 
+438,Kia Seltos HTX Diesel iMT (Diesel),,1493 ,20.7 
+439,Kia Seltos HTX Diesel AT (Diesel),18.22 ,1493 ,19.1 
+440,Kia Seltos HTX Plus Diesel (Diesel),18.70 ,1493 ,20.7 
+441,Kia Seltos HTX Plus Turbo iMT (Petrol),18.73 ,1482 ,17.7 
+442,Kia Seltos HTX Plus Diesel iMT (Diesel),18.95 ,1493 ,20.7 
+443,Kia Seltos GTX Turbo DCT (Petrol),,1482 ,17.9 
+444,Kia Seltos GTX Diesel AT (Diesel),,1493 ,19.1 
+445,Kia Seltos GTX Plus S Turbo DCT (Petrol),19.40 ,1482 ,17.9 
+446,Kia Seltos GTX Plus S Diesel AT (Diesel),19.40 ,1493 ,19.1 
+447,Kia Seltos X-Line S Turbo DCT (Petrol),19.65 ,1482 ,17.9 
+448,Kia Seltos X-Line S DIesel AT (Diesel),19.65 ,1493 ,19.1 
+449,Kia Seltos HTX Plus Turbo DCT (Petrol),19.73 ,1482 ,17.9 
+450,Kia Seltos GTX Plus Turbo DCT (Petrol),,1482 ,17.9 
+451,Kia Seltos GTX Plus Diesel AT (Diesel),,1493 ,19.1 
+452,Kia Seltos X-Line Turbo DCT (Petrol),20.35 ,1482 ,17.9 
+453,Kia Seltos X-Line Diesel AT (Diesel),20.35 ,1493 ,19.1 
+454,Kia Sonet HTE (Petrol),7.99 ,1197 ,
+455,Kia Sonet HTE (O) (Petrol),8.19 ,1197 ,
+456,Kia Sonet HTK (Petrol),8.89 ,1197 ,
+457,Kia Sonet HTK (O) (Petrol),9.25 ,1197 ,
+458,Kia Sonet HTK Turbo iMT (Petrol),9.60 ,998 ,
+459,Kia Sonet HTE Diesel (Diesel),9.80 ,1493 ,
+460,Kia Sonet HTK Plus (Petrol),,1199 ,
+461,Kia Sonet HTE (O) Diesel (Diesel),,1493 ,
+462,Kia Sonet HTK Diesel (Diesel),10.50 ,1493 ,
+463,Kia Sonet HTK Plus Turbo iMT (Petrol),10.56 ,998 ,
+464,Kia Sonet HTK (O) Diesel (Diesel),10.85 ,1493 ,
+465,Kia Sonet HTK Plus Diesel (Diesel),11.45 ,1493 ,
+466,Kia Sonet HTX Turbo iMT (Petrol),11.56 ,998 ,
+467,Kia Sonet HTX Diesel (Diesel),12.10 ,1493 ,
+468,Kia Sonet HTX Turbo DCT (Petrol),12.36 ,998 ,
+469,Kia Sonet HTX Diesel iMT (Diesel),12.70 ,1493 ,
+470,Kia Sonet HTX Diesel AT (Diesel),13.10 ,1493 ,
+471,Kia Sonet HTX Plus Turbo iMT (Petrol),13.50 ,998 ,
+472,Kia Sonet GTX Turbo DCT (Petrol),13.71 ,998 ,
+473,Kia Sonet HTX Plus Diesel (Diesel),13.80 ,1493 ,
+474,Kia Sonet HTX Plus Diesel iMT (Diesel),14.50 ,1493 ,
+475,Kia Sonet GTX Plus Turbo DCT (Petrol),14.55 ,998 ,
+476,Kia Sonet GTX Diesel AT (Diesel),14.56 ,1493 ,
+477,Kia Sonet X-line Turbo DCT (Petrol),14.75 ,998 ,
+478,Kia Sonet GTX Plus Diesel AT (Diesel),15.65 ,1493 ,
+479,Kia Sonet X-line Diesel AT (Diesel),15.75 ,1493 ,
+480,Hyundai Venue E (Petrol),7.94 ,1197 ,20.36 
+481,Hyundai Venue S (Petrol),9.11 ,1197 ,20.36 
+482,Hyundai Venue S Opt (Petrol),9.89 ,1197 ,20.36 
+483,Hyundai Venue Executive Turbo (Petrol),,998 ,20.36 
+484,Hyundai Venue S Opt Knight (Petrol),10.13 ,1197 ,20.36 
+485,Hyundai Venue S Plus Diesel (Diesel),10.71 ,1493 ,24.2 
+486,Hyundai Venue S Opt Turbo (Petrol),10.75 ,998 ,
+487,Hyundai Venue SX (Petrol),11.05 ,1197 ,20.36 
+488,Hyundai Venue SX DT (Petrol),11.20 ,1197 ,20.36 
+489,Hyundai Venue SX Knight (Petrol),11.38 ,1197 ,20.36 
+490,Hyundai Venue SX Knight DT (Petrol),11.53 ,1197 ,20.36 
+491,Hyundai Venue S Opt Turbo DCT (Petrol),11.86 ,998 ,18.31 
+492,Hyundai Venue SX Diesel (Diesel),12.37 ,1493 ,24.2 
+493,Hyundai Venue SX Opt Turbo (Petrol),12.44 ,998 ,24.2 
+494,Hyundai Venue SX DT Diesel (Diesel),12.52 ,1493 ,24.2 
+495,Hyundai Venue SX Opt Turbo DT (Petrol),12.59 ,998 ,
+496,Hyundai Venue SX Opt Knight Turbo (Petrol),12.65 ,998 ,20.36 
+497,Hyundai Venue SX Opt Knight Turbo DT (Petrol),12.80 ,998 ,20.36 
+498,Hyundai Venue SX Opt Turbo DCT (Petrol),13.23 ,998 ,18.31 
+499,Hyundai Venue SX Opt Diesel (Diesel),13.29 ,1493 ,24.2 
+500,Hyundai Venue SX Opt Knight Turbo DCT (Petrol),13.33 ,998 ,18.31 
+501,Hyundai Venue SX Opt Turbo DCT DT (Petrol),13.38 ,998 ,18.31 
+502,Hyundai Venue SX Opt DT Diesel (Diesel),13.44 ,1493 ,24.2 
+503,Hyundai Venue SX Opt Knight Turbo DCT DT (Petrol),13.48 ,998 ,18.31 
+504,Maruti Swift Dzire LXI (Petrol),6.57 ,1197 ,22.41 
+505,Maruti Swift Dzire VXI (Petrol),7.49 ,1197 ,22.41 
+506,Maruti Swift Dzire VXI AT (Petrol),7.99 ,1197 ,22.61 
+507,Maruti Swift Dzire ZXI (Petrol),8.17 ,1197 ,22.41 
+508,Maruti Swift Dzire VXI CNG (CNG),8.44 ,1197 ,
+509,Maruti Swift Dzire ZXI AT (Petrol),8.67 ,1197 ,22.61 
+510,Maruti Swift Dzire ZXI Plus (Petrol),8.89 ,1197 ,22.41 
+511,Maruti Swift Dzire ZXI CNG (CNG),9.12 ,1197 ,
+512,Maruti Swift Dzire ZXI Plus AT (Petrol),9.39 ,1197 ,22.61 
+513,Toyota Land Cruiser 300 ZX (Diesel),,3346 ,
+514,Maruti Wagon R LXI (Petrol),5.54 ,998 ,24.35 
+515,Maruti Wagon R VXI (Petrol),,998 ,24.35 
+516,Maruti Wagon R ZXI (Petrol),6.28 ,1197 ,23.56 
+517,Maruti Wagon R VXI AT (Petrol),6.50 ,998 ,25.19 
+518,Maruti Wagon R LXI CNG (CNG),6.45 ,998 ,
+519,Maruti Wagon R ZXI AT (Petrol),6.78 ,1197 ,24.43 
+520,Maruti Wagon R ZXI Plus (Petrol),6.75 ,1197 ,23.56 
+521,Maruti Wagon R ZXI Plus Dual Tone (Petrol),6.88 ,1197 ,23.56 
+522,Maruti Wagon R VXI CNG (CNG),6.89 ,998 ,
+523,Maruti Wagon R ZXI Plus AT (Petrol),7.25 ,1197 ,24.43 
+524,Maruti Wagon R ZXI Plus AT Dual tone (Petrol),7.38 ,1197 ,24.43 
+525,Hyundai Exter EX (Petrol),6.13 ,1197 ,19.4 
+526,Hyundai Exter EX Opt (Petrol),6.48 ,1197 ,19.4 
+527,Hyundai Exter S (Petrol),7.50 ,1197 ,19.4 
+528,Hyundai Exter S Opt (Petrol),7.65 ,1197 ,19.4 
+529,Hyundai Exter S AMT (Petrol),8.23 ,1197 ,19.2 
+530,Hyundai Exter SX (Petrol),8.23 ,1197 ,19.4 
+531,Hyundai Exter SX Knight (Petrol),8.38 ,1197 ,19.4 
+532,Hyundai Exter S CNG (CNG),8.43 ,1197 ,
+533,Hyundai Exter SX DT (Petrol),8.47 ,1197 ,19.4 
+534,Hyundai Exter SX Knight DT (Petrol),8.62 ,1197 ,19.4 
+535,Hyundai Exter SX Opt (Petrol),8.87 ,1197 ,19.4 
+536,Hyundai Exter SX AMT (Petrol),8.90 ,1197 ,19.2 
+537,Hyundai Exter SX Knight AMT (Petrol),9.05 ,1197 ,19.2 
+538,Hyundai Exter SX DT AMT (Petrol),9.15 ,1197 ,19.2 
+539,Hyundai Exter SX CNG (CNG),9.16 ,1197 ,
+540,Hyundai Exter SX Knight DT AMT (Petrol),9.30 ,1197 ,19.2 
+541,Hyundai Exter SX Opt AMT (Petrol),9.54 ,1197 ,19.2 
+542,Hyundai Exter SX Opt Connect (Petrol),9.56 ,1197 ,19.4 
+543,Hyundai Exter SX Opt Connect Knight (Petrol),9.71 ,1197 ,19.4 
+544,Hyundai Exter SX Opt Connect DT (Petrol),9.71 ,1197 ,19.4 
+545,Hyundai Exter SX Opt Connect Knight DT (Petrol),9.86 ,1197 ,19.4 
+546,Hyundai Exter SX Opt Connect AMT (Petrol),,1197 ,19.2 
+547,Hyundai Exter SX Opt Connect Knight AMT (Petrol),10.15 ,1197 ,19.2 
+548,Hyundai Exter SX Opt Connect DT AMT (Petrol),10.28 ,1197 ,19.2 
+549,Hyundai Exter SX Opt Connect Knight DT AMT (Petrol),10.43 ,1197 ,19.2 
+550,Hyundai i20 Era (Petrol),7.04 ,1197 ,
+551,Hyundai i20 Magna (Petrol),7.75 ,1197 ,
+552,Hyundai i20 Sportz (Petrol),8.38 ,1197 ,
+553,Hyundai i20 Sportz DT (Petrol),8.53 ,1197 ,
+554,Hyundai i20 Sportz Opt (Petrol),8.73 ,1197 ,
+555,Hyundai i20 Sportz Opt DT (Petrol),8.88 ,1197 ,
+556,Hyundai i20 Asta (Petrol),9.34 ,1197 ,
+557,Hyundai i20 Sportz IVT (Petrol),9.43 ,1197 ,
+558,Hyundai i20 Sportz Opt IVT (Petrol),9.78 ,1197 ,
+559,Hyundai i20 Asta Opt (Petrol),,1197 ,
+560,Hyundai i20 Asta Opt DT (Petrol),10.18 ,1197 ,
+561,Hyundai i20 Asta Opt IVT (Petrol),11.06 ,1197 ,
+562,Hyundai i20 Asta Opt IVT DT (Petrol),11.21 ,1197 ,
+563,MG Hector 1.5 Turbo Style (Petrol),13.99 ,1451 ,13.79 
+564,MG Hector 1.5 Turbo Shine (Petrol),16.16 ,1451 ,13.79 
+565,MG Hector 1.5 Turbo Shine CVT (Petrol),17.17 ,1451 ,
+566,MG Hector 1.5 Turbo Select Pro (Petrol),17.48 ,1451 ,13.79 
+567,MG Hector 2.0 Shine Diesel (Diesel),17.88 ,1956 ,13.79 
+568,MG Hector 1.5 Turbo Smart Pro (Petrol),18.43 ,1451 ,13.79 
+569,MG Hector 1.5 Turbo Select Pro CVT (Petrol),18.68 ,1451 ,
+570,MG Hector 2.0 Select Pro Diesel (Diesel),18.89 ,1956 ,15.58 
+571,MG Hector 1.5 Turbo Sharp Pro (Petrol),19.90 ,1451 ,13.79 
+572,MG Hector 2.0 Smart Pro Diesel (Diesel),,1956 ,15.58 
+573,MG Hector 100 Year Limited Edition CVT (Petrol),21.20 ,1451 ,12.34 
+574,MG Hector 1.5 Turbo Sharp Pro CVT (Petrol),21.21 ,1451 ,12.34 
+575,MG Hector BlackStorm CVT (Petrol),21.53 ,1451 ,12.34 
+576,MG Hector 100 Year Limited Edition Diesel (Diesel),21.90 ,1956 ,15.58 
+577,MG Hector 2.0 Sharp Pro Diesel (Diesel),21.92 ,1956 ,15.58 
+578,MG Hector 1.5 Turbo Savvy Pro CVT (Petrol),22.17 ,1451 ,12.34 
+579,MG Hector BlackStorm Diesel (Diesel),22.24 ,1956 ,15.58 
+580,Toyota Hyryder E (Petrol),11.14 ,1462 ,21.12 
+581,Toyota Hyryder S (Petrol),12.81 ,1462 ,21.12 
+582,Toyota Hyryder S CNG (CNG),13.71 ,1462 ,
+583,Toyota Hyryder S AT (Petrol),14.01 ,1462 ,20.58 
+584,Toyota Hyryder G (Petrol),14.49 ,1462 ,21.12 
+585,Toyota Hyryder G CNG (CNG),15.59 ,1462 ,
+586,Toyota Hyryder G AT (Petrol),15.69 ,1462 ,20.58 
+587,Toyota Hyryder V (Petrol),16.04 ,1462 ,21.12 
+588,Toyota Hyryder S HYBRID (Petrol),16.66 ,1490 ,27.97 
+589,Toyota Hyryder V AT (Petrol),17.24 ,1462 ,20.58 
+590,Toyota Hyryder V AWD (Petrol),17.54 ,1462 ,19.39 
+591,Toyota Hyryder G HYBRID (Petrol),18.69 ,1490 ,27.97 
+592,Toyota Hyryder V HYBRID (Petrol),20.19 ,1490 ,27.97 
+593,Tata Safari Smart (Diesel),15.49 ,1956 ,16.3 
+594,Tata Safari Smart (O) (Diesel),16.69 ,1956 ,
+595,Tata Safari Pure (Diesel),17.69 ,1956 ,16.3 
+596,Tata Safari Pure (O) (Diesel),18.19 ,1956 ,
+597,Tata Safari Pure Plus (Diesel),19.39 ,1956 ,16.3 
+598,Tata Safari Pure Plus S (Diesel),20.39 ,1956 ,
+599,Tata Safari Pure Plus S Dark (Diesel),20.69 ,1956 ,
+600,Tata Safari Pure Plus AT (Diesel),20.69 ,1956 ,
+601,Tata Safari Adventure (Diesel),20.99 ,1956 ,16.3 
+602,Tata Safari Pure Plus S AT (Diesel),21.79 ,1956 ,
+603,Tata Safari Pure Plus S Dark AT (Diesel),22.09 ,1956 ,
+604,Tata Safari Adventure Plus (Diesel),22.49 ,1956 ,16.3 
+605,Tata Safari Adventure Plus Dark (Diesel),23.04 ,1956 ,
+606,Tata Safari Adventure Plus A (Diesel),23.49 ,1956 ,
+607,Tata Safari Adventure Plus AT (Diesel),23.89 ,1956 ,16.3 
+608,Tata Safari Accomplished (Diesel),23.99 ,1956 ,16.3 
+609,Tata Safari Accomplished Dark (Diesel),24.34 ,1956 ,
+610,Tata Safari Adventure Plus Dark AT (Diesel),24.44 ,1956 ,
+611,Tata Safari Adventure Plus A AT (Diesel),24.89 ,1956 ,
+612,Tata Safari Accomplished AT (Diesel),25.39 ,1956 ,
+613,Tata Safari Accomplished Plus (Diesel),25.49 ,1956 ,
+614,Tata Safari Accomplished Plus 6S (Diesel),25.59 ,1956 ,
+615,Tata Safari Accomplished Dark AT (Diesel),25.74 ,1956 ,
+616,Tata Safari Accomplished Plus Dark (Diesel),25.84 ,1956 ,
+617,Tata Safari Accomplished Plus Dark 6S (Diesel),25.94 ,1956 ,
+618,Tata Safari Accomplished Plus AT (Diesel),26.89 ,1956 ,
+619,Tata Safari Accomplished Plus 6S AT (Diesel),26.99 ,1956 ,
+620,Tata Safari Accomplished Plus Dark AT (Diesel),27.24 ,1956 ,
+621,Tata Safari Accomplished Plus Dark 6S AT (Diesel),27.34 ,1956 ,
+622,Tata Altroz XE (Petrol),6.65 ,1199 ,19.33 
+623,Tata Altroz XM (Petrol),,1199 ,19.05 
+624,Tata Altroz XM S (Petrol),7.45 ,1199 ,19.05 
+625,Tata Altroz XM Plus (Petrol),7.60 ,1199 ,19.33 
+626,Tata Altroz XE CNG (CNG),7.60 ,1199 ,
+627,Tata Altroz XT (Petrol),8.10 ,1199 ,19.33 
+628,Tata Altroz XM Plus S (Petrol),8.10 ,1199 ,19.33 
+629,Tata Altroz XM Plus CNG (CNG),8.45 ,1199 ,
+630,Tata Altroz XZ (Petrol),8.60 ,1199 ,19.33 
+631,Tata Altroz XMA Plus DCT (Petrol),8.60 ,1199 ,18.5 
+632,Tata Altroz XM Plus Diesel (Diesel),8.90 ,1497 ,23.64 
+633,Tata Altroz XM Plus S CNG (CNG),8.95 ,1199 ,
+634,Tata Altroz XZ LUX (Petrol),,1199 ,19.33 
+635,Tata Altroz XTA DCT (Petrol),9.10 ,1199 ,18.5 
+636,Tata Altroz XMA Plus S DCT (Petrol),9.10 ,1199 ,18.5 
+637,Tata Altroz XZ Plus S (Petrol),9.10 ,1199 ,19.33 
+638,Tata Altroz XT Diesel (Diesel),9.40 ,1497 ,23.64 
+639,Tata Altroz XM Plus S Diesel (Diesel),9.40 ,1497 ,23.64 
+640,Tata Altroz XZ Plus S Dark Edition (Petrol),9.50 ,1199 ,19.33 
+641,Tata Altroz XZ CNG (CNG),9.60 ,1199 ,
+642,Tata Altroz XZ Plus S LUX (Petrol),9.65 ,1199 ,19.33 
+643,Tata Altroz XZA DCT (Petrol),9.70 ,1199 ,18.5 
+644,Tata Altroz XZ Diesel (Diesel),9.90 ,1497 ,23.64 
+645,Tata Altroz XZ Plus OS (Petrol),9.99 ,1199 ,19.33 
+646,Tata Altroz XZ Plus S LUX Dark Edition (Petrol),9.99 ,1199 ,19.33 
+647,Tata Altroz XZ LUX CNG (CNG),,1199 ,
+648,Tata Altroz XZA LUX DCT (Petrol),10.10 ,1199 ,19.33 
+649,Tata Altroz XZA Plus S DCT (Petrol),10.10 ,1199 ,
+650,Tata Altroz XZ Plus S CNG (CNG),10.10 ,1199 ,
+651,Tata Altroz XZ LUX Diesel (Diesel),10.30 ,1497 ,19.33 
+652,Tata Altroz XZA Plus S Dark Edition DCT (Petrol),10.40 ,1199 ,18.5 
+653,Tata Altroz XZ Plus S Diesel (Diesel),10.40 ,1497 ,23.64 
+654,Tata Altroz XZA Plus S LUX DCT (Petrol),10.65 ,1199 ,19.33 
+655,Tata Altroz XZ Plus S LUX CNG (CNG),10.65 ,1199 ,
+656,Tata Altroz XZ Plus S Dark Edition Diesel (Diesel),10.80 ,1497 ,23.64 
+657,Tata Altroz XZA Plus S LUX Dark Edition DCT (Petrol),10.95 ,1199 ,19.33 
+658,Tata Altroz XZ Plus S LUX Diesel (Diesel),10.95 ,1497 ,19.33 
+659,Tata Altroz XZA Plus OS DCT (Petrol),10.99 ,1199 ,18.5 
+660,Tata Altroz XZ Plus OS CNG (CNG),10.99 ,1199 ,
+661,Tata Altroz XZ Plus S LUX Dark Edition Diesel (Diesel),11.35 ,1497 ,19.33 
+662,Tata Tiago XE (Petrol),5.65 ,1199 ,20.09 
+663,Tata Tiago XM (Petrol),,1199 ,20.09 
+664,Tata Tiago XT Option (Petrol),6.20 ,1199 ,20.09 
+665,Tata Tiago XT (Petrol),6.40 ,1199 ,20.09 
+666,Tata Tiago XT Rhythm (Petrol),6.60 ,1199 ,20.09 
+667,Tata Tiago XE CNG (CNG),6.60 ,1199 ,
+668,Tata Tiago XTA AMT (Petrol),6.95 ,1199 ,
+669,Tata Tiago XM CNG (CNG),6.95 ,1199 ,
+670,Tata Tiago XZ Plus Option (Petrol),,1199 ,20.09 
+671,Tata Tiago XZ Plus (Petrol),7.30 ,1199 ,20.09 
+672,Tata Tiago XT CNG (CNG),7.35 ,1199 ,
+673,Tata Tiago XZ Plus DT (Petrol),7.40 ,1199 ,20.09 
+674,Tata Tiago XZA Plus Option AMT (Petrol),7.55 ,1199 ,
+675,Tata Tiago XT Rhythm CNG (CNG),7.55 ,1199 ,
+676,Tata Tiago XZA Plus AMT (Petrol),7.85 ,1199 ,
+677,Tata Tiago XTA AMT CNG (CNG),7.90 ,1199 ,
+678,Tata Tiago XZA Plus DT AMT (Petrol),7.95 ,1199 ,
+679,Tata Tiago XZ Plus CNG (CNG),8.25 ,1199 ,
+680,Tata Tiago XZ Plus DT CNG (CNG),8.35 ,1199 ,
+681,Tata Tiago XZA Plus AMT CNG (CNG),8.80 ,1199 ,
+682,Tata Tiago XZA Plus DT AMT CNG (CNG),8.90 ,1199 ,
+683,Maruti Alto K10 STD (Petrol),3.99 ,998 ,24.39 
+684,Maruti Alto K10 LXI (Petrol),4.83 ,998 ,24.39 
+685,Maruti Alto K10 Dream Edition (Petrol),4.99 ,998 ,24.39 
+686,Maruti Alto K10 VXI (Petrol),5.06 ,998 ,24.39 
+687,Maruti Alto K10 VXI Plus (Petrol),5.35 ,998 ,24.39 
+688,Maruti Alto K10 VXI AT (Petrol),5.56 ,998 ,24.9 
+689,Maruti Alto K10 LXI S-CNG (CNG),5.74 ,998 ,
+690,Maruti Alto K10 VXI Plus AT (Petrol),5.85 ,998 ,24.9 
+691,Maruti Alto K10 VXI S-CNG (CNG),5.96 ,998 ,
+692,Volkswagen Virtus Comfortline (Petrol),11.56 ,999 ,20.8 
+693,Volkswagen Virtus Highline (Petrol),13.58 ,999 ,19.4 
+694,Volkswagen Virtus Highline AT (Petrol),14.88 ,999 ,18.12 
+695,Volkswagen Virtus Topline (Petrol),15.28 ,999 ,19.4 
+696,Volkswagen Virtus Topline ES (Petrol),15.60 ,999 ,20.08 
+697,Volkswagen Virtus Topline Sound Edition (Petrol),15.80 ,999 ,20.08 
+698,Volkswagen Virtus Topline AT (Petrol),16.58 ,999 ,18.12 
+699,Volkswagen Virtus GT DSG (Petrol),16.62 ,1498 ,18.67 
+700,Volkswagen Virtus Topline AT ES (Petrol),16.85 ,999 ,18.45 
+701,Volkswagen Virtus Topline Sound Edition AT (Petrol),17.05 ,999 ,18.45 
+702,Volkswagen Virtus GT Plus (Petrol),17.28 ,1498 ,18.67 
+703,Volkswagen Virtus GT Plus Edge (Petrol),17.48 ,1498 ,18.67 
+704,Volkswagen Virtus GT Plus ES (Petrol),17.60 ,1498 ,18.88 
+705,Volkswagen Virtus GT Plus Edge ES (Petrol),17.80 ,1498 ,18.88 
+706,Volkswagen Virtus GT Plus Edge Matte (Petrol),17.86 ,1498 ,18.88 
+707,Volkswagen Virtus GT Plus DSG (Petrol),18.83 ,1498 ,18.67 
+708,Volkswagen Virtus GT Plus Edge DSG (Petrol),19.03 ,1498 ,18.67 
+709,Volkswagen Virtus GT Plus DSG ES (Petrol),19.15 ,1498 ,19.62 
+710,Volkswagen Virtus GT Plus Edge DSG ES (Petrol),19.35 ,1498 ,19.62 
+711,Volkswagen Virtus GT Plus Edge Matte DSG (Petrol),19.41 ,1498 ,19.62 
+712,Hyundai Aura E (Petrol),6.49 ,1197 ,
+713,Hyundai Aura S (Petrol),7.33 ,1197 ,
+714,Hyundai Aura SX (Petrol),8.09 ,1197 ,
+715,Hyundai Aura S CNG (CNG),8.31 ,1197 ,
+716,Hyundai Aura SX Option (Petrol),8.66 ,1197 ,
+717,Hyundai Aura SX Plus AMT (Petrol),8.89 ,1197 ,
+718,Hyundai Aura SX CNG (CNG),9.05 ,1197 ,
+719,Skoda Kushaq 1.0L Classic (Petrol),10.89 ,999 ,19.76 
+720,Skoda Kushaq 1.0L Onyx (Petrol),12.89 ,999 ,19.76 
+721,Skoda Kushaq 1.0L Onyx AT (Petrol),13.49 ,999 ,18.09 
+722,Skoda Kushaq 1.0L Signature (Petrol),14.19 ,999 ,19.76 
+723,Skoda Kushaq 1.0L Signature AT (Petrol),15.29 ,999 ,18.09 
+724,Skoda Kushaq 1.0L Monte Carlo (Petrol),15.60 ,999 ,19.76 
+725,Skoda Kushaq 1.5L Signature (Petrol),15.69 ,1498 ,18.6 
+726,Skoda Kushaq 1.0L Prestige (Petrol),16.09 ,999 ,19.76 
+727,Skoda Kushaq 1.0L Monte Carlo AT (Petrol),16.70 ,999 ,18.09 
+728,Skoda Kushaq 1.5L Signature AT (Petrol),16.89 ,1498 ,18.86 
+729,Skoda Kushaq 1.5L Monte Carlo (Petrol),17.10 ,1498 ,18.6 
+730,Skoda Kushaq 1.0L Prestige AT (Petrol),17.19 ,999 ,18.09 
+731,Skoda Kushaq 1.5L Prestige (Petrol),17.59 ,1498 ,18.6 
+732,Skoda Kushaq 1.5L Monte Carlo AT (Petrol),18.30 ,1498 ,18.86 
+733,Skoda Kushaq 1.5L Prestige AT (Petrol),18.79 ,1498 ,18.86 
+734,Maruti Jimny Zeta (Petrol),12.74 ,1462 ,16.94 
+735,Maruti Jimny Alpha (Petrol),13.69 ,1462 ,16.94 
+736,Maruti Jimny Zeta AT (Petrol),13.84 ,1462 ,16.39 
+737,Maruti Jimny Alpha Dual Tone (Petrol),13.85 ,1462 ,16.94 
+738,Maruti Jimny Alpha AT (Petrol),14.79 ,1462 ,16.39 
+739,Maruti Jimny Alpha Dual Tone AT (Petrol),14.95 ,1462 ,16.39 
+740,Nissan Magnite XE (Petrol),,999 ,19.35 
+741,Nissan Magnite XE AMT (Petrol),6.60 ,999 ,19.7 
+742,Nissan Magnite XL (Petrol),7.04 ,999 ,19.35 
+743,Nissan Magnite Geza Edition (Petrol),7.39 ,999 ,
+744,Nissan Magnite XL AMT (Petrol),7.50 ,999 ,19.7 
+745,Nissan Magnite XV (Petrol),7.82 ,999 ,19.35 
+746,Nissan Magnite XV DT (Petrol),7.98 ,999 ,19.35 
+747,Nissan Magnite XV Red Edition (Petrol),8.07 ,999 ,18.75 
+748,Nissan Magnite XV AMT (Petrol),8.28 ,999 ,19.7 
+749,Nissan Magnite Kuro MT (Petrol),8.28 ,999 ,18.75 
+750,Nissan Magnite XV AMT DT (Petrol),8.44 ,999 ,19.7 
+751,Nissan Magnite XV Premium (Petrol),8.60 ,999 ,19.35 
+752,Nissan Magnite Kuro AMT (Petrol),8.74 ,999 ,18.75 
+753,Nissan Magnite XV Premium DT (Petrol),8.76 ,999 ,19.35 
+754,Nissan Magnite XV Premium AMT (Petrol),8.96 ,999 ,19.7 
+755,Nissan Magnite XV Premium AMT DT (Petrol),9.12 ,999 ,19.7 
+756,Nissan Magnite Turbo XV (Petrol),9.19 ,999 ,
+757,Nissan Magnite Turbo XV DT (Petrol),9.35 ,999 ,
+758,Nissan Magnite Turbo XV Red Edition (Petrol),9.44 ,999 ,
+759,Nissan Magnite Kuro Turbo (Petrol),9.65 ,999 ,
+760,Nissan Magnite Turbo XV Premium (Petrol),9.80 ,999 ,
+761,Nissan Magnite Geza Edition CVT (Petrol),9.84 ,999 ,17.4 
+762,Nissan Magnite Turbo XV Premium DT (Petrol),9.96 ,999 ,
+763,Nissan Magnite Turbo XV Premium Opt (Petrol),,999 ,
+764,Nissan Magnite Turbo XV Premium Opt DT (Petrol),10.16 ,999 ,
+765,Nissan Magnite Turbo CVT XV (Petrol),10.20 ,999 ,17.4 
+766,Nissan Magnite Turbo CVT XV DT (Petrol),10.36 ,999 ,17.4 
+767,Nissan Magnite Turbo CVT XV Red Edition (Petrol),10.45 ,999 ,17.4 
+768,Nissan Magnite Kuro Turbo CVT (Petrol),10.66 ,999 ,17.4 
+769,Nissan Magnite Turbo CVT XV Premium (Petrol),10.91 ,999 ,17.4 
+770,Nissan Magnite Turbo CVT XV Premium DT (Petrol),11.07 ,999 ,17.4 
+771,Nissan Magnite Turbo CVT XV Premium Opt (Petrol),11.11 ,999 ,17.4 
+772,Nissan Magnite Turbo CVT XV Premium Opt DT (Petrol),11.27 ,999 ,17.4 
+773,Toyota Taisor E (Petrol),7.74 ,1197 ,21.7 
+774,Toyota Taisor S (Petrol),8.60 ,1197 ,21.7 
+775,Toyota Taisor E CNG (CNG),8.71 ,1197 ,
+776,Toyota Taisor S Plus (Petrol),8.99 ,1197 ,21.7 
+777,Toyota Taisor S AMT (Petrol),9.12 ,1197 ,22.8 
+778,Toyota Taisor S Plus AMT (Petrol),9.53 ,1197 ,22.8 
+779,Toyota Taisor G Turbo (Petrol),10.55 ,998 ,21.5 
+780,Toyota Taisor V Turbo (Petrol),11.47 ,998 ,21.5 
+781,Toyota Taisor V Turbo Dual Tone (Petrol),11.63 ,998 ,21.5 
+782,Toyota Taisor G Turbo AT (Petrol),11.96 ,998 ,
+783,Toyota Taisor V Turbo AT (Petrol),12.88 ,998 ,
+784,Toyota Taisor V Turbo AT Dual Tone (Petrol),13.04 ,998 ,
+785,Toyota Hilux STD (Diesel),30.40 ,2755 ,
+786,Toyota Hilux High (Diesel),37.15 ,2755 ,
+787,Toyota Hilux High AT (Diesel),37.90 ,2755 ,
+788,Honda City SV (Petrol),12.08 ,1498 ,17.8 
+789,Honda City V Elegant (Petrol),12.80 ,1498 ,17.8 
+790,Honda City V (Petrol),12.85 ,1498 ,17.8 
+791,Honda City VX (Petrol),13.92 ,1498 ,17.8 
+792,Honda City V Elegant CVT (Petrol),14.05 ,1498 ,18.4 
+793,Honda City V CVT (Petrol),14.10 ,1498 ,18.4 
+794,Honda City ZX (Petrol),15.10 ,1498 ,17.8 
+795,Honda City VX CVT (Petrol),15.17 ,1498 ,18.4 
+796,Honda City ZX CVT (Petrol),16.35 ,1498 ,18.4 
+797,Maruti Celerio Dream Edition (Petrol),4.99 ,998 ,25.24 
+798,Maruti Celerio LXI (Petrol),5.37 ,998 ,25.24 
+799,Maruti Celerio VXI (Petrol),5.83 ,998 ,25.24 
+800,Maruti Celerio ZXI (Petrol),6.12 ,998 ,25.24 
+801,Maruti Celerio VXI AMT (Petrol),6.33 ,998 ,26.68 
+802,Maruti Celerio ZXI AMT (Petrol),6.62 ,998 ,
+803,Maruti Celerio ZXI Plus (Petrol),6.59 ,998 ,24.97 
+804,Maruti Celerio VXI CNG (CNG),6.74 ,998 ,
+805,Maruti Celerio ZXI Plus AMT (Petrol),7.09 ,998 ,
+806,Renault KWID 1.0 RXE (Petrol),4.70 ,999 ,21.46 
+807,Renault KWID 1.0 RXL Opt (Petrol),,999 ,21.46 
+808,Renault KWID 1.0 RXL Opt AMT (Petrol),5.45 ,999 ,21.46 
+809,Renault KWID 1.0 RXT (Petrol),5.50 ,999 ,21.46 
+810,Renault KWID CLIMBER (Petrol),5.88 ,999 ,21.46 
+811,Renault KWID 1.0 RXT AMT (Petrol),5.95 ,999 ,22.3 
+812,Renault KWID CLIMBER DT (Petrol),,999 ,21.46 
+813,Renault KWID CLIMBER AMT (Petrol),6.33 ,999 ,22.3 
+814,Renault KWID CLIMBER DT AMT (Petrol),6.45 ,999 ,22.3 
+815,Honda Amaze E (Petrol),7.20 ,1199 ,18.6 
+816,Honda Amaze S (Petrol),7.93 ,1199 ,18.6 
+817,Honda Amaze S CVT (Petrol),8.83 ,1199 ,18.3 
+818,Honda Amaze VX (Petrol),9.04 ,1199 ,18.6 
+819,Honda Amaze VX Elite (Petrol),9.13 ,1199 ,18.6 
+820,Honda Amaze VX CVT (Petrol),9.86 ,1199 ,18.3 
+821,Honda Amaze VX Elite CVT (Petrol),9.96 ,1199 ,18.3 
+822,Mercedes-Benz GLA 200 (Petrol),51.75 ,1332 ,17.4 
+823,Mercedes-Benz GLA 220d 4MATIC (Diesel),,1950 ,18.9 
+824,Mercedes-Benz GLA 220d 4MATIC AMG Line (Diesel),58.15 ,1950 ,18.9 
+825,Skoda Slavia 1.0L Classic (Petrol),10.69 ,999 ,20.32 
+826,Skoda Slavia 1.0L Signature (Petrol),13.99 ,999 ,20.32 
+827,Skoda Slavia 1.0L Signature AT (Petrol),15.09 ,999 ,18.73 
+828,Skoda Slavia 1.5L Signature (Petrol),15.49 ,1498 ,
+829,Skoda Slavia 1.0L Prestige (Petrol),15.99 ,999 ,20.32 
+830,Skoda Slavia 1.5L Signature AT (Petrol),16.69 ,1498 ,19.36 
+831,Skoda Slavia 1.0L Prestige AT (Petrol),17.09 ,999 ,18.73 
+832,Skoda Slavia 1.5L Prestige (Petrol),17.49 ,1498 ,
+833,Skoda Slavia 1.5L Prestige AT (Petrol),18.69 ,1498 ,19.36 
+834,Renault Triber RXE (Petrol),,999 ,
+835,Renault Triber RXL (Petrol),6.80 ,999 ,
+836,Renault Triber RXT (Petrol),7.61 ,999 ,
+837,Renault Triber RXT EASY-R AMT (Petrol),8.12 ,999 ,18.2 
+838,Renault Triber RXZ (Petrol),8.22 ,999 ,
+839,Renault Triber RXZ Dual Tone (Petrol),8.46 ,999 ,
+840,Renault Triber RXZ EASY-R AMT (Petrol),8.74 ,999 ,18.2 
+841,Renault Triber RXZ EASY-R AMT Dual Tone (Petrol),8.97 ,999 ,18.2 
+842,Maruti Eeco 5 Seater STD (Petrol),5.32 ,1197 ,19.71 
+843,Maruti Eeco 7 Seater STD (Petrol),5.61 ,1197 ,19.71 
+844,Maruti Eeco 5 Seater AC (Petrol),5.68 ,1197 ,19.71 
+845,Maruti Eeco 5 Seater AC CNG (CNG),6.58 ,1197 ,
+846,BMW X1 sDrive18i M Sport (Petrol),49.50 ,1499 ,20.37 
+847,BMW X1 sDrive18d M Sport (Diesel),52.50 ,1995 ,20.37 
+848,Hyundai Alcazar Prestige Turbo 7 Seater (Petrol),16.77 ,1482 ,18.8 
+849,Hyundai Alcazar Prestige 7-Seater Diesel (Diesel),17.78 ,1493 ,24.5 
+850,Hyundai Alcazar Platinum Turbo 7 Seater (Petrol),18.68 ,1482 ,18.8 
+851,Hyundai Alcazar Platinum AE Turbo 7Str (Petrol),19.04 ,1482 ,18.8 
+852,Hyundai Alcazar Prestige (O) 7-Seater Diesel AT (Diesel),19.25 ,1493 ,23.8 
+853,Hyundai Alcazar Platinum 7-Seater Diesel (Diesel),19.69 ,1493 ,24.5 
+854,Hyundai Alcazar Platinum (O) Turbo DCT 7 Seater (Petrol),19.99 ,1482 ,18.8 
+855,Hyundai Alcazar Platinum (O) Turbo DCT (Petrol),19.99 ,1482 ,18.8 
+856,Hyundai Alcazar Platinum AE 7Str Diesel (Diesel),20.05 ,1493 ,20.4 
+857,Hyundai Alcazar Signature Diesel (Diesel),20.18 ,1493 ,24.5 
+858,Hyundai Alcazar Signature (O) Turbo DCT 7 Seater (Petrol),20.28 ,1482 ,
+859,Hyundai Alcazar Signature (O) Turbo DCT (Petrol),20.28 ,1482 ,
+860,Hyundai Alcazar Signature (O) Dual Tone Turbo DCT (Petrol),20.33 ,1482 ,
+861,Hyundai Alcazar Signature Dual Tone Diesel (Diesel),20.33 ,1493 ,24.5 
+862,Hyundai Alcazar Signature (O) AE Turbo 7Str DT DCT (Petrol),20.64 ,1482 ,18.8 
+863,Hyundai Alcazar Signature (O) AE Turbo 7Str DCT (Petrol),20.64 ,1482 ,18.8 
+864,Hyundai Alcazar Platinum (O) Diesel AT (Diesel),20.81 ,1493 ,23.8 
+865,Hyundai Alcazar Platinum (O) 7-Seater Diesel AT (Diesel),20.81 ,1493 ,18.1 
+866,Hyundai Alcazar Signature (O) Diesel AT (Diesel),20.93 ,1493 ,23.8 
+867,Hyundai Alcazar Signature (O) 7-Seater Diesel AT (Diesel),20.93 ,1493 ,23.8 
+868,Hyundai Alcazar Signature (O) Dual Tone Diesel AT (Diesel),21.17 ,1493 ,23.8 
+869,Hyundai Alcazar Signature (O) AE 7Str Diesel DT AT (Diesel),21.28 ,1493 ,23.8 
+870,Hyundai Alcazar Signature (O) AE 7Str Diesel AT (Diesel),21.28 ,1493 ,23.8 
+871,Volkswagen Taigun 1.0 Comfortline (Petrol),11.70 ,999 ,19.2 
+872,Volkswagen Taigun 1.0 Highline (Petrol),13.88 ,999 ,19.2 
+873,Volkswagen Taigun 1.0 GT Line (Petrol),14.08 ,999 ,19.87 
+874,Volkswagen Taigun 1.0 Highline AT (Petrol),15.43 ,999 ,17.23 
+875,Volkswagen Taigun 1.0 GT Line AT (Petrol),15.63 ,999 ,18.15 
+876,Volkswagen Taigun 1.0 Topline (Petrol),16.12 ,999 ,19.2 
+877,Volkswagen Taigun 1.0 Topline ES (Petrol),16.31 ,999 ,19.2 
+878,Volkswagen Taigun 1.0 Topline Sound Edition (Petrol),16.51 ,999 ,19.2 
+879,Volkswagen Taigun GT Edge Trail Edition (Petrol),16.77 ,1498 ,18.47 
+880,Volkswagen Taigun 1.5 GT (Petrol),16.77 ,1498 ,18.47 
+881,Volkswagen Taigun 1.5 GT DSG (Petrol),17.36 ,1498 ,18.47 
+882,Volkswagen Taigun 1.0 Topline AT (Petrol),17.63 ,999 ,17.23 
+883,Volkswagen Taigun 1.0 Topline AT ES (Petrol),17.88 ,999 ,17.23 
+884,Volkswagen Taigun 1.0 Topline AT Sound Edition (Petrol),18.08 ,999 ,17.23 
+885,Volkswagen Taigun 1.5 GT Plus Chrome (Petrol),18.18 ,1498 ,18.47 
+886,Volkswagen Taigun 1.5 GT Plus Edge (Petrol),19.74 ,1498 ,17.88 
+887,Volkswagen Taigun 1.5 GT Plus Edge Matte (Petrol),18.44 ,1498 ,17.88 
+888,Volkswagen Taigun 1.5 GT Plus Sports (Petrol),18.54 ,1498 ,18.61 
+889,Volkswagen Taigun 1.5 GT Plus Chrome ES (Petrol),18.54 ,1498 ,18.47 
+890,Volkswagen Taigun 1.5 GT Plus Edge ES (Petrol),18.38 ,1498 ,17.88 
+891,Volkswagen Taigun 1.5 GT Edge Sport (Petrol),18.74 ,1498 ,18.47 
+892,Volkswagen Taigun 1.5 GT Plus Edge Matte ES (Petrol),18.80 ,1498 ,17.88 
+893,Volkswagen Taigun 1.5 GT Edge Sport Matte (Petrol),18.80 ,1498 ,18.47 
+894,Volkswagen Taigun 1.5 GT Plus Chrome DSG (Petrol),19.44 ,1498 ,17.88 
+895,Volkswagen Taigun 1.5 GT Plus Edge DSG (Petrol),19.64 ,1498 ,17.88 
+896,Volkswagen Taigun 1.5 GT Plus Edge Matte DSG (Petrol),19.70 ,1498 ,17.88 
+897,Volkswagen Taigun 1.5 GT Plus Sports DSG (Petrol),19.74 ,1498 ,19.01 
+898,Volkswagen Taigun 1.5 GT Plus Chrome DSG ES (Petrol),19.74 ,1498 ,17.88 
+899,Volkswagen Taigun 1.5 GT Plus Edge DSG ES (Petrol),19.94 ,1498 ,17.88 
+900,Volkswagen Taigun 1.5 GT Edge Sport DSG (Petrol),19.94 ,1498 ,17.88 
+901,Volkswagen Taigun 1.5 GT Plus Edge Matte DSG ES (Petrol),,1498 ,17.88 
+902,Volkswagen Taigun 1.5 GT Edge Sport Matte DSG (Petrol),,1498 ,17.88 
+903,Toyota Camry 2.5 Hybrid (Petrol),46.17 ,2487 ,
+904,Lamborghini Urus S (Petrol),,3999 ,
+905,Lamborghini Urus Performante (Petrol),,3996 ,
+906,Maruti XL6 Zeta (Petrol),11.61 ,1462 ,20.97 
+907,Maruti XL6 Zeta CNG (CNG),12.56 ,1462 ,
+908,Maruti XL6 Alpha (Petrol),12.61 ,1462 ,20.97 
+909,Maruti XL6 Zeta AT (Petrol),13.01 ,1462 ,20.27 
+910,Maruti XL6 Alpha Plus (Petrol),13.21 ,1462 ,20.97 
+911,Maruti XL6 Alpha Plus Dual Tone (Petrol),13.37 ,1462 ,20.97 
+912,Maruti XL6 Alpha AT (Petrol),14.01 ,1462 ,20.27 
+913,Maruti XL6 Alpha Plus AT (Petrol),14.61 ,1462 ,20.27 
+914,Maruti XL6 Alpha Plus AT Dual Tone (Petrol),14.77 ,1462 ,20.27 
+915,Toyota Rumion S (Petrol),10.44 ,1462 ,20.51 
+916,Toyota Rumion S CNG (CNG),11.39 ,1462 ,
+917,Toyota Rumion G (Petrol),11.60 ,1462 ,20.51 
+918,Toyota Rumion S AT (Petrol),11.94 ,1462 ,20.11 
+919,Toyota Rumion V (Petrol),12.33 ,1462 ,20.51 
+920,Toyota Rumion G AT (Petrol),,1462 ,20.11 
+921,Toyota Rumion V AT (Petrol),13.73 ,1462 ,20.11 
+922,Jeep Compass 2.0 Sport (Diesel),18.99 ,1956 ,17.1 
+923,Jeep Compass 2.0 Longitude Opt (Diesel),24.83 ,1956 ,17.1 
+924,Jeep Compass 2.0 Night Eagle (Diesel),25.18 ,1956 ,17.1 
+925,Jeep Compass 2.0 Limited Opt (Diesel),26.33 ,1956 ,17.1 
+926,Jeep Compass 2.0 Longitude Opt AT (Diesel),26.83 ,1956 ,17.1 
+927,Jeep Compass 2.0 Black Shark Opt (Diesel),26.83 ,1956 ,17.1 
+928,Jeep Compass 2.0 Night Eagle AT (Diesel),27.18 ,1956 ,17.1 
+929,Jeep Compass 2.0 Model S Opt (Diesel),28.33 ,1956 ,17.1 
+930,Jeep Compass 2.0 Limited Opt FWD AT (Diesel),28.33 ,1956 ,14.9 
+931,Jeep Compass 2.0 Black Shark Opt FWD AT (Diesel),28.83 ,1956 ,17.1 
+932,Jeep Compass 2.0 Model S Opt FWD AT (Diesel),30.33 ,1956 ,17.1 
+933,Jeep Compass 2.0 Model S Opt 4x4 AT (Diesel),32.41 ,1956 ,14.9 
+934,Volvo XC 90 B6 Ultimate (Petrol),,1969 ,17.2 
+935,MG Astor Sprint (Petrol),9.98 ,1498 ,15.43 
+936,MG Astor Shine (Petrol),11.80 ,1498 ,15.43 
+937,MG Astor Select (Petrol),13.11 ,1498 ,15.43 
+938,MG Astor Select CVT (Petrol),14.12 ,1498 ,14.82 
+939,MG Astor Smart Blackstorm (Petrol),14.48 ,1498 ,
+940,MG Astor Sharp Pro (Petrol),14.76 ,1498 ,15.43 
+941,MG Astor 100 Year Limited Edition (Petrol),14.81 ,1498 ,15.43 
+942,MG Astor Smart Blackstorm CVT (Petrol),15.77 ,1498 ,14.82 
+943,MG Astor Sharp Pro CVT (Petrol),,1498 ,14.82 
+944,MG Astor 100 Year Limited Edition CVT (Petrol),16.08 ,1498 ,14.82 
+945,MG Astor Savvy Pro CVT (Petrol),16.95 ,1498 ,14.82 
+946,MG Astor Savvy Pro Sangria CVT (Petrol),17.05 ,1498 ,14.82 
+947,MG Astor Savvy Pro Sangria Turbo AT (Petrol),18.08 ,1349 ,14.34 
+948,BMW X7 xDrive40i M Sport (Petrol),,2998 ,11.29 
+949,BMW X7 xDrive40d Design Pure Excellance (Diesel),,2993 ,14.31 
+950,BMW X7 xDrive40d M Sport (Diesel),,2993 ,14.31 
+951,Tata Punch EV Smart (Electric),10.99 ,,
+952,Tata Punch EV Smart Plus (Electric),11.49 ,,
+953,Tata Punch EV Adventure (Electric),11.99 ,,
+954,Tata Punch EV Adventure S (Electric),12.49 ,,
+955,Tata Punch EV Empowered (Electric),12.79 ,,
+956,Tata Punch EV Adventure LR (Electric),12.99 ,,
+957,Tata Punch EV Empowered S (Electric),13.29 ,,
+958,Tata Punch EV Empowered Plus (Electric),13.29 ,,
+959,Tata Punch EV Adventure S LR (Electric),13.49 ,,
+960,Tata Punch EV Adventure LR AC FC (Electric),13.49 ,,
+961,Tata Punch EV Empowered Plus S (Electric),13.79 ,,
+962,Tata Punch EV Empowered LR (Electric),13.99 ,,
+963,Tata Punch EV Adventure S LR AC FC (Electric),13.99 ,,
+964,Tata Punch EV Empowered S LR (Electric),14.49 ,,
+965,Tata Punch EV Empowered Plus LR (Electric),14.49 ,,
+966,Tata Punch EV Empowered LR AC FC (Electric),14.49 ,,
+967,Tata Punch EV Empowered S LR AC FC (Electric),14.99 ,,
+968,Tata Punch EV Empowered Plus S LR (Electric),14.99 ,,
+969,Tata Punch EV Empowered Plus LR AC FC (Electric),14.99 ,,
+970,Tata Punch EV Empowered Plus S LR AC FC (Electric),15.49 ,,
+971,Toyota Vellfire Hi (Petrol),,2487 ,
+972,Toyota Vellfire VIP Executive Lounge (Petrol),,2487 ,
+973,Maruti Ignis Sigma (Petrol),5.84 ,1197 ,20.89 
+974,Maruti Ignis Delta (Petrol),6.38 ,1197 ,20.89 
+975,Maruti Ignis Delta AMT (Petrol),6.83 ,1197 ,20.89 
+976,Maruti Ignis Zeta (Petrol),6.96 ,1197 ,20.89 
+977,Maruti Ignis Zeta AMT (Petrol),7.41 ,1197 ,20.89 
+978,Maruti Ignis Alpha (Petrol),7.61 ,1197 ,20.89 
+979,Maruti Ignis Alpha AMT (Petrol),8.06 ,1197 ,20.89 
+980,Renault Kiger RXE (Petrol),,999 ,19.17 
+981,Renault Kiger RXL (Petrol),6.60 ,999 ,19.17 
+982,Renault Kiger RXL AMT (Petrol),7.10 ,999 ,19.03 
+983,Renault Kiger RXT (Petrol),7.50 ,999 ,19.17 
+984,Renault Kiger RXT Opt (Petrol),,999 ,20.5 
+985,Renault Kiger RXT AMT (Petrol),,999 ,19.03 
+986,Renault Kiger RXT Opt DT (Petrol),8.23 ,999 ,19.17 
+987,Renault Kiger RXT AMT Opt (Petrol),8.50 ,999 ,19.03 
+988,Renault Kiger RXT AMT Opt DT (Petrol),8.73 ,999 ,19.03 
+989,Renault Kiger RXZ (Petrol),8.80 ,999 ,19.17 
+990,Renault Kiger RXZ DT (Petrol),9.03 ,999 ,19.17 
+991,Renault Kiger RXZ AMT (Petrol),9.30 ,999 ,19.03 
+992,Renault Kiger RXT Opt Turbo (Petrol),9.30 ,999 ,19.17 
+993,Renault Kiger RXZ AMT DT (Petrol),9.53 ,999 ,19.03 
+994,Renault Kiger RXT Opt Turbo DT (Petrol),9.53 ,999 ,20.5 
+995,Renault Kiger RXZ Turbo (Petrol),,999 ,20.5 
+996,Renault Kiger RXZ Turbo DT (Petrol),10.23 ,999 ,20.5 
+997,Renault Kiger RXT Opt Turbo CVT (Petrol),10.30 ,999 ,18.24 
+998,Renault Kiger RXT Opt Turbo CVT DT (Petrol),10.53 ,999 ,18.24 
+999,Renault Kiger RXZ Turbo CVT (Petrol),,999 ,18.24 
+1000,Renault Kiger RXZ Turbo CVT DT (Petrol),11.23 ,999 ,18.24 
+1001,Tata Nexon EV Creative Plus (Electric),14.49 ,,
+1002,Tata Nexon EV Fearless (Electric),15.99 ,,
+1003,Tata Nexon EV Fearless Plus (Electric),16.49 ,,
+1004,Tata Nexon EV Fearless Plus S (Electric),16.99 ,,
+1005,Tata Nexon EV Fearless LR (Electric),16.99 ,,
+1006,Tata Nexon EV Fearless Plus LR (Electric),17.49 ,,
+1007,Tata Nexon EV Empowered (Electric),17.49 ,,
+1008,Tata Nexon EV Fearless Plus S LR (Electric),17.99 ,,
+1009,Tata Nexon EV Empowered Plus LR (Electric),19.29 ,,
+1010,Tata Nexon EV Empowered Plus LR Dark (Electric),19.49 ,,
+1011,Maruti Invicto Zeta Plus 7Str (Petrol),25.21 ,1987 ,23.24 
+1012,Maruti Invicto Zeta Plus 8Str (Petrol),25.26 ,1987 ,23.24 
+1013,Maruti Invicto Alpha Plus 7Str (Petrol),28.92 ,1987 ,23.24 
+1014,Kia EV6 GT line (Electric),60.97 ,,
+1015,Kia EV6 GT line AWD (Electric),65.97 ,,
+1016,Land Rover Range Rover Velar Dynamic HSE Diesel (Diesel),87.90 ,1997 ,15.8 
+1017,Land Rover Range Rover Velar Dynamic HSE (Petrol),87.90 ,1997 ,
+1018,Mahindra Bolero Neo N4 (Diesel),9.95 ,1493 ,17.29 
+1019,Mahindra Bolero Neo N8 (Diesel),10.64 ,1493 ,17.29 
+1020,Mahindra Bolero Neo N10 R (Diesel),11.47 ,1493 ,17.29 
+1021,Mahindra Bolero Neo N10 Option (Diesel),12.15 ,1493 ,17.29 
+1022,Tata Tiago EV XE MR (Electric),7.99 ,,
+1023,Tata Tiago EV XT MR (Electric),8.99 ,,
+1024,Tata Tiago EV XT LR (Electric),9.99 ,,
+1025,Tata Tiago EV XZ Plus LR (Electric),10.89 ,,
+1026,Tata Tiago EV XZ Plus Tech LUX LR (Electric),11.39 ,,
+1027,Tata Tiago EV XZ Plus LR ACFC (Electric),11.39 ,,
+1028,Tata Tiago EV XZ Plus Tech LUX LR ACFC (Electric),11.89 ,,
+1029,Maruti S-Presso STD (Petrol),4.26 ,998 ,24.12 
+1030,Maruti S-Presso Dream Edition (Petrol),4.99 ,998 ,24.76 
+1031,Maruti S-Presso LXi (Petrol),5.01 ,998 ,24.12 
+1032,Maruti S-Presso VXI (Petrol),5.21 ,998 ,24.76 
+1033,Maruti S-Presso VXi Plus (Petrol),5.50 ,998 ,24.76 
+1034,Maruti S-Presso VXi Opt AT (Petrol),5.71 ,998 ,25.3 
+1035,Maruti S-Presso LXI CNG (CNG),5.92 ,998 ,
+1036,Maruti S-Presso VXi Plus Opt AT (Petrol),,998 ,25.3 
+1037,Maruti S-Presso VXI CNG (CNG),6.12 ,998 ,
+1038,Skoda Superb L&K (Petrol),,1984 ,
+1039,Maruti Ciaz Sigma (Petrol),9.40 ,1462 ,20.65 
+1040,Maruti Ciaz Delta (Petrol),,1462 ,20.65 
+1041,Maruti Ciaz Zeta (Petrol),10.40 ,1462 ,20.65 
+1042,Maruti Ciaz Delta AT (Petrol),11.10 ,1462 ,20.04 
+1043,Maruti Ciaz Alpha (Petrol),11.19 ,1462 ,20.65 
+1044,Maruti Ciaz Zeta AT (Petrol),11.50 ,1462 ,20.04 
+1045,Maruti Ciaz Alpha AT (Petrol),12.29 ,1462 ,20.04 
+1046,Citroen C3 Puretech 82 Live (Petrol),6.16 ,1198 ,19.3 
+1047,Citroen C3 Puretech 82 Feel (Petrol),7.27 ,1198 ,19.3 
+1048,Citroen C3 Puretech 82 Feel DT (Petrol),7.42 ,1198 ,19.3 
+1049,Citroen C3 Puretech 82 Shine (Petrol),7.80 ,1198 ,19.3 
+1050,Citroen C3 Puretech 82 Shine DT (Petrol),7.95 ,1198 ,19.3 
+1051,Citroen C3 Feel Dual Tone Turbo (Petrol),8.47 ,1199 ,19.3 
+1052,Citroen C3 Shine Dual Tone Turbo (Petrol),,1199 ,19.3 
+1053,MG Gloster Sharp 4x2 7Str (Diesel),38.80 ,1996 ,
+1054,MG Gloster Savvy 4x2 7Str (Diesel),40.34 ,1996 ,
+1055,MG Gloster Savvy 4x2 6Str (Diesel),40.34 ,1996 ,
+1056,MG Gloster Snow Storm 4x2 7Str (Diesel),41.05 ,1996 ,
+1057,MG Gloster Desert Storm 4x2 7Str (Diesel),41.05 ,1996 ,
+1058,MG Gloster Desert Storm 4x2 6Str (Diesel),41.05 ,1996 ,
+1059,MG Gloster Black Storm 4x2 7Str (Diesel),41.05 ,1996 ,
+1060,MG Gloster Black Storm 4x2 6Str (Diesel),41.05 ,1996 ,
+1061,MG Gloster Savvy 4x4 7Str (Diesel),43.16 ,1996 ,
+1062,MG Gloster Savvy 4x4 6Str (Diesel),43.16 ,1996 ,
+1063,MG Gloster Snow Storm 4x4 7Str (Diesel),43.87 ,1996 ,
+1064,MG Gloster Desert Storm 4x4 7Str (Diesel),43.87 ,1996 ,
+1065,MG Gloster Desert Storm 4x4 6Str (Diesel),43.87 ,1996 ,
+1066,MG Gloster Black Storm 4x4 7Str (Diesel),43.87 ,1996 ,
+1067,MG Gloster Black Storm 4x4 6Str (Diesel),43.87 ,1996 ,
+1068,Porsche 911 Carrera (Petrol),,2981 ,9.17 
+1069,Porsche 911 Carrera 4 GTS (Petrol),,3996 ,10.64 
+1070,Porsche 911 Turbo S (Petrol),,2981 ,
+1071,Porsche 911 GT3 RS (Petrol),,3996 ,10.64 
+1072,Tata Tigor XE (Petrol),6.30 ,1199 ,19.28 
+1073,Tata Tigor XM (Petrol),6.80 ,1199 ,19.28 
+1074,Tata Tigor XZ (Petrol),7.30 ,1199 ,19.28 
+1075,Tata Tigor XMA AMT (Petrol),7.40 ,1199 ,19.6 
+1076,Tata Tigor XM CNG (CNG),7.75 ,1199 ,
+1077,Tata Tigor XZ Plus (Petrol),,1199 ,19.28 
+1078,Tata Tigor XZ CNG (CNG),8.25 ,1199 ,
+1079,Tata Tigor XZA Plus AMT (Petrol),8.60 ,1199 ,19.6 
+1080,Tata Tigor XZA AMT CNG (CNG),8.85 ,1199 ,
+1081,Tata Tigor XZ Plus CNG (CNG),8.95 ,1199 ,
+1082,Tata Tigor XZA Plus AMT CNG (CNG),9.55 ,1199 ,
+1083,MG Comet EV Executive (Electric),6.99 ,,
+1084,MG Comet EV Excite (Electric),7.98 ,,
+1085,MG Comet EV Excite FC (Electric),8.45 ,,
+1086,MG Comet EV Exclusive (Electric),,,
+1087,MG Comet EV Exclusive FC (Electric),9.37 ,,
+1088,MG Comet EV 100 Year Limited Edition (Electric),9.53 ,,
+1089,Jeep Wrangler Unlimited (Petrol),67.65 ,1995 ,11.4 
+1090,Jeep Wrangler Rubicon (Petrol),71.65 ,1995 ,10.6 
+1091,Force Gurkha 2.6 Diesel (Diesel),16.75 ,2596 ,
+1092,Volkswagen Tiguan 2.0 TSI Elegance (Petrol),35.17 ,1984 ,12.65 
+1093,BYD Seal Dynamic Range (Electric),,,
+1094,BYD Seal Premium Range (Electric),45.55 ,,
+1095,BYD Seal Performance (Electric),,,
+1096,Audi Q5 Premium Plus (Petrol),65.51 ,1984 ,13.47 
+1097,Audi Q5 Technology (Petrol),70.80 ,1984 ,13.47 
+1098,BMW X5 xDrive40i xLine (Petrol),,2998 ,
+1099,BMW X5 xDrive30d xLine (Diesel),,2993 ,
+1100,BMW X5 xDrive40i M Sport (Petrol),,2998 ,
+1101,BMW X5 xDrive30d M Sport (Diesel),,2993 ,
+1102,BMW Z4 M40i (Petrol),90.90 ,2998 ,
+1103,Toyota Fortuner Legender 4x2 AT (Diesel),43.66 ,2755 ,
+1104,Toyota Fortuner Legender 4x4 AT (Diesel),47.64 ,2755 ,
+1105,BYD Atto 3 Dynamic (Electric),24.99 ,,
+1106,BYD Atto 3 Premium (Electric),29.85 ,,
+1107,BYD Atto 3 Superior (Electric),33.99 ,,
+1108,Audi Q7 Premium Plus (Petrol),88.66 ,2995 ,11.21 
+1109,Audi Q7 Technology (Petrol),96.34 ,2995 ,
+1110,Audi Q7 Bold Edition (Petrol),97.84 ,2995 ,
+1111,Land Rover Range Rover Evoque 2.0 Dynamic SE Diesel (Diesel),67.90 ,1997 ,
+1112,Land Rover Range Rover Evoque 2.0 Dynamic SE (Petrol),67.90 ,1997 ,
+1113,Audi Q3 Premium (Petrol),44.25 ,1984 ,
+1114,Audi Q3 Premium Plus (Petrol),48.59 ,1984 ,
+1115,Audi Q3 Technology (Petrol),53.70 ,1984 ,
+1116,Audi Q3 Bold Edition (Petrol),54.65 ,1984 ,
+1117,Hyundai Tucson Platinum AT (Petrol),29.02 ,1999 ,
+1118,Hyundai Tucson Signature AT (Petrol),31.52 ,1999 ,
+1119,Hyundai Tucson Platinum Diesel AT (Diesel),31.55 ,1997 ,
+1120,Hyundai Tucson Signature AT DT (Petrol),31.67 ,1999 ,
+1121,Hyundai Tucson Signature Diesel AT (Diesel),34.25 ,1997 ,
+1122,Hyundai Tucson Signature Diesel AT DT (Diesel),34.40 ,1997 ,
+1123,Hyundai Tucson Signature Diesel 4WD AT (Diesel),35.79 ,1997 ,
+1124,Hyundai Tucson Signature Diesel 4WD AT DT (Diesel),35.94 ,1997 ,
+1125,BMW XM xDrive (Petrol),,4395 ,11.29 
+1126,BMW i7 eDrive50 M Sport (Electric),,,
+1127,BMW i7 xDrive60 M Sport (Electric),,,
+1128,BMW i7 M70 xDrive (Electric),,,
+1129,Skoda Kodiaq L & K (Petrol),39.99 ,1984 ,13.32 
+1130,Jeep Meridian Limited Opt (Diesel),33.60 ,1956 ,
+1131,Jeep Meridian X (Diesel),34.27 ,1956 ,15.7 
+1132,Jeep Meridian Limited Opt AT (Diesel),35.52 ,1956 ,
+1133,Jeep Meridian Limited Plus AT (Diesel),35.93 ,1956 ,
+1134,Jeep Meridian Overland FWD AT (Diesel),36.97 ,1956 ,
+1135,Jeep Meridian Limited Opt AT 4x4 (Diesel),38.21 ,1956 ,
+1136,Jeep Meridian Limited Plus AT 4x4 (Diesel),38.61 ,1956 ,
+1137,Jeep Meridian Overland AT 4x4 (Diesel),39.66 ,1956 ,
+1138,Audi A4 Premium (Petrol),46.02 ,1984 ,
+1139,Audi A4 Premium Plus (Petrol),50.67 ,1984 ,
+1140,Audi A4 Technology (Petrol),54.58 ,1984 ,
+1141,Citroen C3 Aircross You (Petrol),9.99 ,1199 ,18.5 
+1142,Citroen C3 Aircross Plus (Petrol),11.61 ,1199 ,18.5 
+1143,Citroen C3 Aircross Plus DT (Petrol),11.81 ,1199 ,18.5 
+1144,Citroen C3 Aircross Dhoni Edition (Petrol),11.82 ,1199 ,18.5 
+1145,Citroen C3 Aircross Plus 7 Seater (Petrol),11.96 ,1199 ,18.5 
+1146,Citroen C3 Aircross Plus 7 Seater DT (Petrol),12.16 ,1199 ,18.5 
+1147,Citroen C3 Aircross Max (Petrol),12.26 ,1199 ,18.5 
+1148,Citroen C3 Aircross Max DT (Petrol),12.46 ,1199 ,18.5 
+1149,Citroen C3 Aircross Max 7 Seater (Petrol),12.61 ,1199 ,18.5 
+1150,Citroen C3 Aircross Max 7 Seater DT (Petrol),12.81 ,1199 ,18.5 
+1151,Citroen C3 Aircross Plus AT (Petrol),12.91 ,1199 ,17.6 
+1152,Citroen C3 Aircross Plus AT DT (Petrol),13.11 ,1199 ,17.6 
+1153,Citroen C3 Aircross Max AT (Petrol),13.56 ,1199 ,17.6 
+1154,Citroen C3 Aircross Max AT DT (Petrol),13.76 ,1199 ,17.6 
+1155,Citroen C3 Aircross Max AT 7 Seater (Petrol),13.91 ,1199 ,17.6 
+1156,Citroen C3 Aircross Max AT 7 Seater DT (Petrol),14.11 ,1199 ,17.6 
+1157,Tata Altroz Racer R1 (Petrol),9.49 ,1199 ,
+1158,Tata Altroz Racer R2 (Petrol),10.49 ,1199 ,
+1159,Tata Altroz Racer R3 (Petrol),10.99 ,1199 ,
+1160,Rolls-Royce Phantom Series II (Petrol),,6749 ,9.8 
+1161,Rolls-Royce Phantom Extended Wheelbase (Petrol),,6749 ,9.8 
+1162,Land Rover Range Rover Sport 3.0 Dynamic SE (Petrol),,2997 ,
+1163,Land Rover Range Rover Sport 3.0 Diesel Dynamic SE (Diesel),,2998 ,
+1164,MG Hector Plus 2.0 Style Diesel (Diesel),17.30 ,1956 ,15.58 
+1165,MG Hector Plus 2.0 Style 7 Str Diesel (Diesel),17.30 ,1956 ,15.58 
+1166,MG Hector Plus 1.5 Turbo Select Pro 7 Str (Petrol),18.20 ,1451 ,13.79 
+1167,MG Hector Plus 2.0 Select Pro 7 Str Diesel (Diesel),19.82 ,1956 ,15.58 
+1168,MG Hector Plus 1.5 Turbo Sharp Pro 7 Str (Petrol),20.63 ,1451 ,13.79 
+1169,MG Hector Plus 1.5 Turbo Sharp Pro (Petrol),20.63 ,1451 ,13.79 
+1170,MG Hector Plus 2.0 Smart Pro Diesel (Diesel),21.23 ,1956 ,15.58 
+1171,MG Hector Plus 100 Year Limited Edition CVT 7 Str (Petrol),21.93 ,1451 ,12.34 
+1172,MG Hector Plus 1.5 Turbo Sharp Pro CVT 7 Str (Petrol),21.97 ,1451 ,12.34 
+1173,MG Hector Plus 1.5 Turbo Sharp Pro CVT (Petrol),21.97 ,1451 ,12.34 
+1174,MG Hector Plus BlackStorm CVT 7 Str (Petrol),22.29 ,1451 ,13.79 
+1175,MG Hector Plus 2.0 Sharp Pro 7 Str Diesel (Diesel),22.50 ,1956 ,15.58 
+1176,MG Hector Plus 100 Year Limited Edition 7 Str Diesel (Diesel),22.50 ,1956 ,15.58 
+1177,MG Hector Plus 2.0 Sharp Pro Diesel (Diesel),22.76 ,1956 ,15.58 
+1178,MG Hector Plus BlackStorm 7 Str Diesel (Diesel),22.87 ,1956 ,15.58 
+1179,MG Hector Plus 1.5 Turbo Savvy Pro CVT 7 Str (Petrol),22.93 ,1451 ,12.34 
+1180,MG Hector Plus 1.5 Turbo Savvy Pro CVT (Petrol),22.93 ,1451 ,12.34 
+1181,MG Hector Plus BlackStorm Diesel (Diesel),23.08 ,1956 ,15.58 
+1182,BMW X3 xDrive20d xLine (Diesel),68.50 ,1995 ,16.55 
+1183,BMW X3 xDrive20d M Sport (Diesel),72.50 ,1995 ,16.55 
+1184,BMW X3 xDrive20d M Sport Shadow Edition (Diesel),74.90 ,1995 ,16.55 
+1185,BMW X3 xDrive M40i (Petrol),87.70 ,2998 ,16.35 
+1186,Porsche Cayenne STD (Petrol),,2894 ,10.8 
+1187,Porsche Cayenne GTS (Petrol),,2894 ,10.8 
+1188,Mahindra XUV400 EV EC Pro 345 kWh (Electric),15.49 ,,
+1189,Mahindra XUV400 EV EC (Electric),15.49 ,,
+1190,Mahindra XUV400 EV EL Pro 345 kWh (Electric),16.74 ,,
+1191,Mahindra XUV400 EV EC Fast Charger (Electric),16.74 ,,
+1192,Mahindra XUV400 EV EL Pro DT 345 kWh (Electric),16.94 ,,
+1193,Mahindra XUV400 EV EL Pro 394 kWh (Electric),17.49 ,,
+1194,Mahindra XUV400 EV EL Pro DT 394 kWh (Electric),17.69 ,,
+1195,Mahindra XUV400 EV EL Fast Charger (Electric),19.19 ,,
+1196,Mahindra XUV400 EV EL Fast Charger DT (Electric),19.39 ,,
+1197,Volvo XC60 B5 Ultimate (Petrol),68.90 ,1969 ,11.2 
+1198,BMW 3 Series M340i xDrive (Petrol),72.90 ,2998 ,13.02 
+1199,Audi RS5 Sportback (Petrol),,2894 ,8.8 
+1200,Rolls-Royce Ghost V12 (Petrol),,6750 ,6.33 
+1201,Rolls-Royce Ghost V12 Extended (Petrol),,6750 ,6.33 
+1202,Land Rover Discovery 2.0 S (Petrol),,1997 ,
+1203,Land Rover Discovery 3.0 S (Petrol),,2996 ,
+1204,Land Rover Discovery 2.0 Dynamic HSE (Petrol),,1997 ,
+1205,Land Rover Discovery 3.0 Diesel S (Diesel),,2996 ,12.37 
+1206,Land Rover Discovery 3.0 Dynamic HSE (Petrol),,2997 ,
+1207,Land Rover Discovery 3.0 Diesel Dynamic HSE (Diesel),,2996 ,
+1208,Land Rover Discovery 3.0 l Metropolitan Edition (Petrol),,2998 ,
+1209,Land Rover Discovery 3.0 Diesel Metropolitan Edition (Diesel),,2997 ,
+1210,Isuzu D-Max CBC HR 2.0 (Diesel),11.55 ,2499 ,
+1211,Isuzu D-Max Flat Deck HR (Diesel),11.90 ,2499 ,
+1212,Isuzu D-Max Flat Deck HR 2.0 (Diesel),,2499 ,
+1213,Isuzu D-Max Flat Deck HR AC 1.2 (Diesel),12.30 ,2499 ,
+1214,Isuzu D-Max Flat Deck HR AC 2.0 (Diesel),12.40 ,2499 ,
+1215,Mercedes-Benz GLS 450 4matic (Petrol),,2999 ,
+1216,Mercedes-Benz GLS 450d 4matic (Diesel),,2925 ,
+1217,Audi A6 45 TFSI Premium Plus (Petrol),64.41 ,1984 ,14.11 
+1218,Audi A6 45 TFSI Technology WO Matrix (Petrol),66.26 ,1984 ,14.11 
+1219,Audi A6 45 TFSI Technology (Petrol),70.79 ,1984 ,14.11 
+1220,MG ZS EV Executive (Electric),18.98 ,,
+1221,MG ZS EV Excite Pro (Electric),19.98 ,,
+1222,MG ZS EV Exclusive Plus (Electric),23.98 ,,
+1223,MG ZS EV 100 Year Limited Edition (Electric),24.18 ,,
+1224,MG ZS EV Exclusive Plus DT (Electric),24.20 ,,
+1225,MG ZS EV Essence (Electric),24.98 ,,
+1226,MG ZS EV Essence DT (Electric),25.20 ,,
+1227,Hyundai Kona Premium (Electric),23.84 ,,
+1228,Hyundai Kona Premium Dual Tone (Electric),24.03 ,,
+1229,BMW M2 Coupe (Petrol),99.90 ,2993 ,10.13 
+1230,Bajaj RE60 Qute CNG (CNG),3.61 ,216 ,
+1231,Bentley Continental GT V8 (Petrol),,3996 ,12.9 
+1232,Bentley Continental GTC V8 (Petrol),,3993 ,12.9 
+1233,Bentley Continental GT S V8 (Petrol),,3996 ,12.9 
+1234,Bentley Continental GT Azure V8 (Petrol),,3996 ,12.9 
+1235,Bentley Continental GT Speed (Petrol),,5950 ,12.9 
+1236,Bentley Continental GTC S V8 (Petrol),,3996 ,12.9 
+1237,Bentley Continental GT Speed Edition 12 (Petrol),,5950 ,12.9 
+1238,Bentley Continental GTC Azure V8 (Petrol),,3996 ,12.9 
+1239,Bentley Continental GT Mulliner V8 (Petrol),,3996 ,12.9 
+1240,Bentley Continental GTC Speed (Petrol),,3993 ,12.9 
+1241,Bentley Continental GTC Speed Edition 12 (Petrol),,5993 ,12.9 
+1242,Bentley Continental GTC Mulliner V8 (Petrol),,3996 ,12.9 
+1243,Bentley Continental GT Mulliner W12 (Petrol),,5950 ,12.9 
+1244,Bentley Continental GTC Mulliner W12 (Petrol),,5950 ,12.9 
+1245,Jaguar F-Pace 2.0 R-Dynamic S Diesel (Diesel),72.90 ,1997 ,19.3 
+1246,Jaguar F-Pace 2.0 R-Dynamic S (Petrol),72.90 ,1997 ,12.9 
+1247,BMW 2 Series 220i M Sport (Petrol),43.90 ,1998 ,14.82 
+1248,BMW 2 Series 220i M Sport Pro (Petrol),45.90 ,1998 ,14.82 
+1249,BMW 2 Series 220i M Sport Shadow Edition (Petrol),46.90 ,1998 ,14.82 
+1250,BMW 2 Series 220d M Sport (Diesel),46.90 ,1998 ,18.64 
+1251,Mahindra Bolero Camper 2WD Power Steering (Diesel),10.26 ,2523 ,
+1252,Mahindra Bolero Camper 4WD Power Steering (Diesel),10.55 ,2523 ,
+1253,Mahindra Bolero Camper GOLD ZX 2WD (Diesel),10.61 ,2523 ,
+1254,BMW iX xDrive50 (Electric),,,
+1255,Mercedes-Benz C-Class C 200 (Petrol),61.85 ,1496 ,16.9 
+1256,Mercedes-Benz C-Class C 220d (Diesel),62.85 ,1993 ,
+1257,Mercedes-Benz C-Class C 300 (Petrol),,1999 ,
+1258,BMW 7 Series 740i M Sport (Petrol),,2998 ,
+1259,BMW 7 Series 740d M Sport (Diesel),,2993 ,
+1260,Porsche Taycan 4S (Electric),,,
+1261,Porsche Taycan Turbo (Electric),,,
+1262,Hyundai Creta N Line N8 (Petrol),16.82 ,1482 ,
+1263,Hyundai Creta N Line N8 Titan Grey Matte (Petrol),16.87 ,1482 ,
+1264,Hyundai Creta N Line N8 DCT (Petrol),18.32 ,1482 ,18.2 
+1265,Hyundai Creta N Line N8 DCT Titan Grey Matte (Petrol),18.37 ,1482 ,18.2 
+1266,Hyundai Creta N Line N8 DCT Dual Tone (Petrol),18.47 ,1482 ,18.2 
+1267,Hyundai Creta N Line N10 (Petrol),19.34 ,1482 ,
+1268,Hyundai Creta N Line N10 Titan Grey Matte (Petrol),19.39 ,1482 ,
+1269,Hyundai Creta N Line N10 Dual Tone (Petrol),19.49 ,1482 ,
+1270,Hyundai Creta N Line N10 DCT (Petrol),20.30 ,1482 ,18.2 
+1271,Hyundai Creta N Line N10 DCT Titan Grey Matte (Petrol),20.35 ,1482 ,18.2 
+1272,Hyundai Creta N Line N10 DCT Dual Tone (Petrol),20.45 ,1482 ,18.2 
+1273,Hyundai Creta N Line N8 Dual Tone (Petrol),16.97 ,1482 ,
+1274,BMW X4 M40i (Petrol),96.20 ,2993 ,
+1275,Mercedes-Benz E-Class Exclusive E 200 (Petrol),76.05 ,1991 ,
+1276,Mercedes-Benz E-Class Exclusive E 220d (Diesel),77.05 ,1950 ,16.1 
+1277,Mercedes-Benz E-Class Elite E 350d (Diesel),89.15 ,2925 ,
+1278,Audi Q8 Celebration Edition (Petrol),,2995 ,9.8 
+1279,Audi Q8 Standard (Petrol),,2995 ,9.8 
+1280,Lexus ES 300h Exquisite (Petrol),63.10 ,2487 ,
+1281,Lexus ES 300h Luxury (Petrol),69.70 ,2487 ,
+1282,Volvo S90 B5 Ultimate (Petrol),68.25 ,1969 ,
+1283,Honda City Hybrid V CVT (Petrol),,1498 ,27.13 
+1284,Honda City Hybrid ZX CVT (Petrol),20.55 ,1498 ,27.13 
+1285,Aston Martin DB12 Coupe (Petrol),,3982 ,
+1286,Mercedes-Benz Maybach GLS 600 4MATIC (Petrol),,3982 ,
+1287,BMW 6 Series GT 630i M Sport (Petrol),73.50 ,1998 ,13.32 
+1288,BMW 6 Series GT 620d M Sport (Diesel),75.50 ,1998 ,18.65 
+1289,BMW 6 Series GT 630i M Sport Signature (Petrol),76.90 ,1998 ,13.32 
+1290,BMW 6 Series GT 620d M Sport Signature (Diesel),78.90 ,1995 ,18.65 
+1291,Mercedes-Benz GLC 300 (Petrol),75.90 ,1999 ,14.7 
+1292,Mercedes-Benz GLC 220d (Diesel),76.90 ,1993 ,19.4 
+1293,Mercedes-Benz S-Class S 350d (Diesel),,2925 ,
+1294,Mercedes-Benz S-Class S450 4Matic (Petrol),,2999 ,
+1295,Mercedes-Benz EQA 250 Plus (Electric),,,
+1296,Isuzu MU-X 4X2 AT (Diesel),,1898 ,
+1297,Isuzu MU-X 4x4 AT (Diesel),40.40 ,1898 ,12.31 
+1298,BYD E6 Electric (Electric),29.15 ,,
+1299,Porsche Macan Standard (Petrol),88.06 ,1984 ,11.24 
+1300,Porsche Macan S (Petrol),,2894 ,11.24 
+1301,Porsche Macan GTS (Petrol),,2894 ,11.24 
+1302,Mercedes-Benz EQS 580 4Matic (Electric),,,
+1303,Isuzu V-Cross 4x4 Z (Diesel),25.52 ,1898 ,
+1304,Isuzu V-Cross 4x2 Z AT (Diesel),25.80 ,1898 ,
+1305,Isuzu V-Cross 4x4 Z Prestige (Diesel),26.92 ,1898 ,
+1306,Isuzu V-Cross 4x4 Z Prestige AT (Diesel),30.96 ,1898 ,
+1307,Tata Tigor EV XE (Electric),12.49 ,,
+1308,Tata Tigor EV XT (Electric),12.99 ,,
+1309,Tata Tigor EV XZ Plus (Electric),13.49 ,,
+1310,Tata Tigor EV XZ Plus LUX (Electric),13.75 ,,
+1311,Rolls-Royce Spectre Electric (Electric),,,
+1312,Hyundai Venue N Line N6 Turbo (Petrol),12.08 ,998 ,
+1313,Hyundai Venue N Line N6 Turbo DT (Petrol),12.23 ,998 ,
+1314,Hyundai Venue N Line N6 turbo DCT (Petrol),12.87 ,998 ,
+1315,Hyundai Venue N Line N8 Turbo (Petrol),12.96 ,998 ,
+1316,Hyundai Venue N Line N6 turbo DCT DT (Petrol),13.02 ,998 ,
+1317,Hyundai Venue N Line N8 Turbo DT (Petrol),13.11 ,998 ,
+1318,Hyundai Venue N Line N8 turbo DCT (Petrol),13.75 ,998 ,
+1319,Hyundai Venue N Line N8 turbo DCT DT (Petrol),13.90 ,998 ,
+1320,Audi e-tron 50 Quattro (Electric),,,
+1321,Audi e-tron 55 Quattro (Electric),,,
+1322,Audi e-tron 55 Sportback (Electric),,,
+1323,Audi e-tron 55 Technology (Electric),,,
+1324,Audi e-tron 55 Sportback Technology (Electric),,,
+1325,Bentley Bentayga V8 (Petrol),,3956 ,
+1326,Bentley Bentayga EWB (Petrol),,3993 ,
+1327,Bentley Bentayga S (Petrol),,3993 ,
+1328,Bentley Bentayga Azure (Petrol),,3993 ,8.6 
+1329,Bentley Bentayga EWB Azure FIRST EDITION (Petrol),,3993 ,
+1330,Lexus LC 500h 3.5 V6 Hybrid (Petrol),,3456 ,12.3 
+1331,Lexus LC 500h Limited Edition (Petrol),,3456 ,12.3 
+1332,Bentley Flying Spur V6 Hybrid (Petrol),,2998 ,12.5 
+1333,Bentley Flying Spur V8 (Petrol),,3993 ,12.5 
+1334,Bentley Flying Spur V8 Hybrid (Petrol),,3993 ,12.5 
+1335,Bentley Flying Spur S V8 (Petrol),,3993 ,12.5 
+1336,Bentley Flying Spur S Hybrid (Petrol),,3993 ,12.5 
+1337,Bentley Flying Spur Hybrid Azure (Petrol),,3993 ,12.5 
+1338,Bentley Flying Spur V8 Azure (Petrol),,3993 ,12.5 
+1339,Bentley Flying Spur W12 Speed (Petrol),,5950 ,10.2 
+1340,Bentley Flying Spur Speed Edition 12 (Petrol),,5950 ,10.2 
+1341,Bentley Flying Spur Mulliner V8 (Petrol),,3993 ,12.5 
+1342,Bentley Flying Spur Mulliner W12 (Petrol),,5950 ,10.2 
+1343,Lexus LM 350h 7 Seater VIP (Petrol),,2487 ,
+1344,Lexus LM 350h 4 Seater Ultra Luxury (Petrol),,2487 ,
+1345,Citroen eC3 Live (Electric),11.61 ,,
+1346,Citroen eC3 Feel (Electric),12.76 ,,
+1347,Citroen eC3 Feel DT (Electric),13.06 ,,
+1348,Citroen eC3 Shine (Electric),13.26 ,,
+1349,Citroen eC3 Shine DT (Electric),13.41 ,,
+1350,Ferrari Roma Coupe V8 (Petrol),,3855 ,8.93 
+1351,Jaguar F-TYPE 2.0 coupe R-Dynamic (Petrol),,1997 ,
+1352,Jaguar F-TYPE 5.0 l V8 Coupe R-Dynamic (Petrol),,5000 ,
+1353,Jaguar F-TYPE 5.0 l V8 Convertible R-Dynamic (Petrol),,5000 ,
+1354,Maruti Ertiga Tour STD (Petrol),9.75 ,1462 ,18.04 
+1355,Maruti Ertiga Tour STD CNG (CNG),10.70 ,1462 ,
+1356,Porsche Panamera STD Hybrid (Petrol),,2897 ,
+1357,Maserati Levante 350 GranSport (Petrol),,2979 ,
+1358,Maserati Levante GranSport Diesel (Diesel),,2987 ,
+1359,Maserati Levante 350 GranLusso (Petrol),,2979 ,
+1360,Maserati Levante GranLusso Diesel (Diesel),,2987 ,
+1361,Maserati Levante 430 GranSport (Petrol),,2979 ,
+1362,Maserati Levante 430 GranLusso (Petrol),,2979 ,
+1363,Rolls-Royce Cullinan V12 (Petrol),,6750 ,9.5 
+1364,Lamborghini Revuelto LB 744 (Petrol),,6498 ,
+1365,Mercedes-Benz GLE 300d 4Matic (Diesel),96.65 ,1993 ,
+1366,Mercedes-Benz GLE 450 4Matic (Petrol),,2999 ,
+1367,Mercedes-Benz GLE 450d 4Matic (Diesel),,2989 ,
+1368,Mclaren GT V8 (Petrol),,3994 ,
+1369,Ferrari 296 GTB V6 hybrid (Petrol),,2992 ,
+1370,Jeep Grand Cherokee Limited Opt (Petrol),80.50 ,1995 ,
+1371,Maserati Ghibli Hybrid Base (Petrol),,1999 ,
+1372,Maserati Ghibli Hybrid GranSport (Petrol),,1999 ,
+1373,Maserati Ghibli Hybrid GranLusso (Petrol),,1999 ,
+1374,Maserati Ghibli V6 GranSport (Petrol),,2979 ,
+1375,Maserati Ghibli V6 GranLusso (Petrol),,2979 ,
+1376,Maserati Ghibli V8 TROFEO (Petrol),,3799 ,
+1377,Mini 3 DOOR S (Petrol),42.70 ,1998 ,17.33 
+1378,BMW M4 Competition xDrive (Petrol),,2993 ,
+1379,Mercedes-Benz EQB 250 Plus (Electric),70.90 ,,
+1380,Mercedes-Benz EQB 350 4Matic (Electric),77.50 ,,
+1381,Isuzu S-CAB Hi-Ride AC (Diesel),13.85 ,2499 ,
+1382,Tata Tiago NRG XT (Petrol),6.70 ,1199 ,20.09 
+1383,Tata Tiago NRG XZ (Petrol),7.30 ,1199 ,20.09 
+1384,Tata Tiago NRG XT CNG (CNG),7.65 ,1199 ,
+1385,Tata Tiago NRG XZA AMT (Petrol),7.85 ,1199 ,20.09 
+1386,Tata Tiago NRG XZ CNG (CNG),8.25 ,1199 ,
+1387,Tata Tiago NRG XZA AMT CNG (CNG),8.80 ,1199 ,
+1388,Maserati Gran Turismo Sport Diesel (Diesel),,4691 ,
+1389,Maserati Gran Turismo 4.7 V8 (Petrol),,4691 ,
+1390,Maserati Gran Turismo MC Diesel (Diesel),,4691 ,
+1391,Maserati Gran Turismo 4.7 MC (Petrol),,4691 ,
+1392,Tata Yodha Pickup Eco (Diesel),6.95 ,2956 ,
+1393,Tata Yodha Pickup Crew Cabin (Diesel),7.09 ,2956 ,
+1394,Tata Yodha Pickup 1500 (Diesel),7.10 ,2956 ,
+1395,Tata Yodha Pickup 4x4 (Diesel),7.50 ,2956 ,
+1396,Ferrari SF90 Stradale Coupe V8 (Petrol),,3990 ,
+1397,Mini Cooper Countryman S JCW Inspired (Petrol),48.10 ,1998 ,14.34 
+1398,Mini Cooper Countryman Shadow Edition (Petrol),,1998 ,14.34 
+1399,Land Rover Discovery Sport Dynamic SE Diesel (Diesel),67.90 ,1999 ,6.9 
+1400,Land Rover Discovery Sport Dynamic SE (Petrol),67.90 ,1997 ,6.9 
+1401,Volvo C40 Recharge E80 (Electric),62.95 ,,
+1402,Citroen C5 Aircross Feel Dual Tone (Diesel),36.91 ,1997 ,17.5 
+1403,Citroen C5 Aircross Feel (Diesel),36.91 ,1997 ,17.5 
+1404,Citroen C5 Aircross Shine Dual Tone (Diesel),37.67 ,1997 ,17.5 
+1405,Citroen C5 Aircross Shine (Diesel),37.67 ,1997 ,17.5 
+1406,Isuzu S-CAB Z 4x2 MT (Diesel),15.80 ,2499 ,
+1407,Lexus LX 500d (Diesel),,3346 ,
+1408,Jaguar I-Pace HSE (Electric),,,
+1409,Lotus Eletre Base (Electric),,,
+1410,Lotus Eletre S (Electric),,,
+1411,Lotus Eletre R (Electric),,,
+1412,Porsche 718 Cayman (Petrol),,1988 ,
+1413,Porsche 718 Boxster (Petrol),,1988 ,
+1414,Porsche 718 Cayman Style Edition (Petrol),,1988 ,
+1415,Porsche 718 Boxster Style Edition (Petrol),,1988 ,
+1416,Porsche 718 Cayman GTS (Petrol),,3995 ,
+1417,Porsche 718 Boxster GTS (Petrol),,3995 ,
+1418,Porsche 718 Spyder (Petrol),,3995 ,
+1419,Porsche 718 Cayman GT4 (Petrol),,3995 ,9.17 
+1420,Porsche 718 Cayman GT4 RS (Petrol),,3997 ,9.17 
+1421,BMW i5 M60 xDrive (Electric),,,
+1422,Maserati Quattroporte 350 GranLusso (Petrol),,2979 ,11.76 
+1423,Maserati Quattroporte GranLusso Diesel (Diesel),,2999 ,11.76 
+1424,Maserati Quattroporte 350 GranSport (Petrol),,2979 ,11.76 
+1425,Maserati Quattroporte GranSport Diesel (Diesel),,2999 ,11.76 
+1426,Maserati Quattroporte 430 GranLusso (Petrol),,2979 ,11.76 
+1427,Maserati Quattroporte 430 GranSport (Petrol),,2979 ,11.76 
+1428,Maserati Quattroporte GTS GranSport (Petrol),,3799 ,11.76 
+1429,Maserati Quattroporte GTS GranLusso (Petrol),,3799 ,11.76 
+1430,Aston Martin DBX V8 (Petrol),,3982 ,
+1431,Aston Martin DBX 707 (Petrol),,3982 ,
+1432,Ferrari F8 Tributo V8 Turbo (Petrol),,3902 ,
+1433,Volvo XC40 Recharge E60 Plus (Electric),54.95 ,,
+1434,Volvo XC40 Recharge E80 ultimate (Electric),57.90 ,,
+1435,Mercedes-Benz EQE SUV 500 4MATIC (Electric),,,
+1436,Lexus NX 350h Exquisite (Petrol),67.35 ,2487 ,9.5 
+1437,Lexus NX 350h Overtrail (Petrol),71.17 ,2487 ,
+1438,Lexus NX 350h Luxury (Petrol),72.07 ,2487 ,
+1439,Lexus NX 350h F-sport (Petrol),74.24 ,2487 ,
+1440,Honda Elevate SV (Petrol),11.91 ,1498 ,15.31 
+1441,Honda Elevate V (Petrol),12.71 ,1498 ,15.31 
+1442,Honda Elevate V CVT (Petrol),13.71 ,1498 ,16.92 
+1443,Honda Elevate VX (Petrol),14.10 ,1498 ,15.31 
+1444,Honda Elevate VX CVT (Petrol),15.10 ,1498 ,16.92 
+1445,Honda Elevate ZX (Petrol),15.41 ,1498 ,15.31 
+1446,Honda Elevate ZX CVT (Petrol),16.43 ,1498 ,16.92 
+1447,Honda Elevate ZX CVT Dual Tone (Petrol),16.51 ,1498 ,16.92 
+1448,Mercedes-Benz AMG C43 4Matic (Petrol),98.25 ,1991 ,
+1449,Maserati Gran Cabrio Sport Diesel (Diesel),,4691 ,10.2 
+1450,Maserati Gran Cabrio 4.7 V8 (Petrol),,4691 ,10.2 
+1451,Maserati Gran Cabrio MC Diesel (Diesel),,4691 ,10.2 
+1452,Maserati Gran Cabrio 4.7 MC (Petrol),,4691 ,10.2 
+1453,PMV EaS E Electric (Electric),4.79 ,,
+1454,BMW 3 Series Gran Limousine 330Li M Sport (Petrol),60.60 ,1998 ,15.39 
+1455,BMW 3 Series Gran Limousine 320Ld M Sport (Diesel),,1995 ,19.61 
+1456,BMW 3 Series Gran Limousine 330Li M Sport Pro (Petrol),62.60 ,1998 ,15.39 
+1457,Pravaig DEFY Hacker Edition (Electric),39.50 ,,
+1458,Porsche Macan EV Turbo (Electric),,,
+1459,Mercedes-Benz AMG A 45 S 4MATIC Plus (Petrol),93.65 ,1991 ,
+1460,BMW i4 eDrive35 M Sport (Electric),72.50 ,,
+1461,BMW i4 eDrive40 M Sport (Electric),77.50 ,,
+1462,Mclaren 750S Coupe (Petrol),,3994 ,
+1463,BMW iX1 xDrive30 M Sport (Electric),66.90 ,,
+1464,Lexus LS 500h Luxury (Petrol),,3456 ,15.4 
+1465,Lexus LS 500h Ultra Luxury (Petrol),,3456 ,15.4 
+1466,Lexus LS 500h Nishijin (Petrol),,3456 ,15.4 
+1467,Lexus LS 500h Kiriko (Petrol),,3456 ,15.4 
+1468,Mercedes-Benz Maybach S-Class S580 (Petrol),,3982 ,
+1469,Mercedes-Benz Maybach S-Class S680 (Petrol),,5980 ,
+1470,Mini Cooper SE Electric (Electric),53.50 ,,
+1471,Lexus RX 350h Luxury Lexus Premium System (Petrol),95.80 ,2487 ,
+1472,Lexus RX 350h Luxury Mark Levinson System (Petrol),97.60 ,2487 ,
+1473,Lexus RX 500h F SPORT Lexus Premium System (Petrol),,2393 ,
+1474,Lexus RX 500h F SPORT Mark Levinson System (Petrol),,2487 ,
+1475,Ferrari 812 GTS (Petrol),,6496 ,
+1476,Audi RS e-tron GT Quattro (Electric),,,
+1477,Mercedes-Benz A-Class Limousine A 200 (Petrol),46.05 ,1332 ,
+1478,Mercedes-Benz A-Class Limousine A 200d (Diesel),48.55 ,1950 ,
+1479,Mercedes-Benz GLB 200 Progressive Line (Petrol),64.80 ,1332 ,9.7 
+1480,Mercedes-Benz GLB 220d Progressive Line (Diesel),68.70 ,1950 ,
+1481,Mercedes-Benz GLB 220d 4Matic (Diesel),71.80 ,1998 ,
+1482,Mercedes-Benz G-Class 400d Adventure Edition (Diesel),,2925 ,
+1483,Mercedes-Benz G-Class 400d AMG Line (Diesel),,2925 ,
+1484,Mercedes-Benz G-Class AMG G 63 Grand Edition (Petrol),,3982 ,8.47 
+1485,Audi e-tron GT Quattro (Electric),,,
+1486,Mahindra Bolero Pik Up Extra Long CBC 1.7T (Diesel),8.85 ,2523 ,14.3 
+1487,Mahindra Bolero Pik Up Extra Long FB 1.3T (Diesel),9.04 ,2523 ,14.3 
+1488,Mahindra Bolero Pik Up Extra Long FB 1.7T (Diesel),9.12 ,2523 ,
+1489,Isuzu Hi-Lander 4x2 MT (Diesel),21.20 ,1898 ,
+1490,Lamborghini Huracan EVO Spyder (Petrol),,5204 ,
+1491,Lamborghini Huracan EVO Tecnica (Petrol),,5204 ,
+1492,Lamborghini Huracan EVO Sterrato (Petrol),,5204 ,
+1493,Lamborghini Huracan EVO STO (Petrol),,5204 ,
+1494,Strom Motors R3 2-Door (Electric),4.50 ,,
+1495,Mercedes-Benz AMG GLE 53 Coupe (Petrol),,2999 ,8.9 
+1496,Mercedes-Benz AMG SL 55 4Matic Plus Roadster (Petrol),,3982 ,
+1497,Mahindra Bolero Maxi Truck Plus CBC PS 1.2 (Diesel),7.49 ,2523 ,17.2 
+1498,Mahindra Bolero Maxi Truck Plus 1.2 (Diesel),7.57 ,2523 ,17.2 
+1499,Mahindra Bolero Maxi Truck Plus PS 1.2 (Diesel),7.61 ,2523 ,17.2 
+1500,Mahindra Bolero Maxi Truck Plus CNG PS (CNG),7.89 ,2523 ,
+1501,Aston Martin Vantage V8 (Petrol),,3998 ,
+1502,Mahindra Bolero Neo Plus P4 (Diesel),11.39 ,2184 ,
+1503,Mahindra Bolero Neo Plus P10 (Diesel),12.49 ,2184 ,
+1504,Porsche Cayenne Coupe STD (Petrol),,2894 ,
+1505,Porsche Cayenne Coupe GTS (Petrol),,2894 ,
+1506,Kia Carens Premium (Petrol),10.52 ,1497 ,
+1507,Kia Carens Premium Opt (Petrol),11.06 ,1497 ,
+1508,Kia Carens Premium iMT (Petrol),,1482 ,17.9 
+1509,Kia Carens Prestige (Petrol),12.12 ,1497 ,
+1510,Kia Carens Prestige Opt 6 STR (Petrol),12.27 ,1497 ,
+1511,Kia Carens Prestige Opt (Petrol),12.27 ,1497 ,
+1512,Kia Carens Premium Opt iMT (Petrol),12.56 ,1482 ,
+1513,Kia Carens Premium Diesel iMT (Diesel),12.65 ,1493 ,
+1514,Kia Carens Premium Diesel (Diesel),12.67 ,1493 ,
+1515,Kia Carens Premium Opt Diesel (Diesel),13.06 ,1493 ,
+1516,Kia Carens Prestige iMT (Petrol),13.62 ,1482 ,
+1517,Kia Carens Prestige Diesel iMT (Diesel),13.95 ,1493 ,
+1518,Kia Carens Prestige Diesel (Diesel),14.15 ,1493 ,
+1519,Kia Carens Prestige Plus iMT (Petrol),15.10 ,1482 ,
+1520,Kia Carens Prestige Plus Diesel iMT (Diesel),15.45 ,1493 ,
+1521,Kia Carens Prestige Plus Diesel (Diesel),15.60 ,1493 ,
+1522,Kia Carens Prestige Plus DCT (Petrol),15.85 ,1482 ,
+1523,Kia Carens Prestige Plus Opt DCT (Petrol),16.31 ,1482 ,
+1524,Kia Carens Luxury iMT (Petrol),16.72 ,1482 ,
+1525,Kia Carens Prestige Plus Opt Diesel AT (Diesel),16.81 ,1493 ,
+1526,Kia Carens Luxury Opt DCT (Petrol),17.15 ,1482 ,17.9 
+1527,Kia Carens Luxury Diesel (Diesel),17.25 ,1493 ,
+1528,Kia Carens Luxury Diesel iMT (Diesel),17.27 ,1493 ,
+1529,Kia Carens Luxury Plus iMT 6 STR (Petrol),17.77 ,1482 ,
+1530,Kia Carens Luxury Plus iMT (Petrol),17.82 ,1482 ,
+1531,Kia Carens Luxury Opt Diesel AT (Diesel),17.85 ,1493 ,
+1532,Kia Carens Luxury Plus 6 STR Diesel (Diesel),18.17 ,1493 ,
+1533,Kia Carens Luxury Plus Diesel (Diesel),18.35 ,1493 ,
+1534,Kia Carens Luxury Plus Diesel iMT 6 STR (Diesel),18.37 ,1493 ,
+1535,Kia Carens Luxury Plus Diesel iMT (Diesel),18.37 ,1493 ,
+1536,Kia Carens Luxury Plus DCT 6 STR (Petrol),18.67 ,1482 ,
+1537,Kia Carens Luxury Plus DCT (Petrol),18.94 ,1482 ,
+1538,Kia Carens Luxury Plus Diesel AT 6 STR (Diesel),19.22 ,1493 ,
+1539,Kia Carens Luxury Plus Diesel AT (Diesel),19.29 ,1493 ,
+1540,Kia Carens X-Line DCT 6 STR (Petrol),19.44 ,1482 ,
+1541,Kia Carens X-Line DCT (Petrol),19.44 ,1482 ,
+1542,Kia Carens X-Line Diesel AT 6 STR (Diesel),19.94 ,1493 ,
+1543,Audi Q8 Sportback e-tron 50 Quattro (Electric),,,
+1544,Audi Q8 Sportback e-tron 55 Quattro (Electric),,,
+1545,Hyundai IONIQ 5 Long Range RWD (Electric),46.05 ,,
+1546,Hyundai i20 N-Line N6 (Petrol),,998 ,
+1547,Hyundai i20 N-Line N6 Dual Tone (Petrol),10.19 ,998 ,
+1548,Hyundai i20 N-Line N6 DCT (Petrol),11.15 ,998 ,
+1549,Hyundai i20 N-Line N8 (Petrol),11.27 ,998 ,
+1550,Hyundai i20 N-Line N6 DCT Dual Tone (Petrol),11.30 ,998 ,
+1551,Hyundai i20 N-Line N8 Dual Tone (Petrol),11.42 ,998 ,
+1552,Hyundai i20 N-Line N8 DCT (Petrol),12.37 ,998 ,
+1553,Hyundai i20 N-Line N8 DCT Dual Tone (Petrol),12.52 ,998 ,
+1554,Maruti Swift Dzire Tour S (O) (Petrol),6.51 ,1197 ,23.15 
+1555,Maruti Swift Dzire Tour S CNG (O) (CNG),7.46 ,1197 ,
+1556,Mercedes-Benz AMG S 63 E Performance (Petrol),,3982 ,
+1557,Mercedes-Benz AMG S 63 E Performance Edition 1 (Petrol),,3982 ,
+1558,Force Gurkha 5 Door Diesel (Diesel),,2596 ,
+1559,Audi S5 Sportback 3.0L TFSI (Petrol),77.32 ,2994 ,8.8 
+1560,Audi S5 Sportback Platinum Edition (Petrol),83.15 ,2994 ,7.6 
+1561,Toyota Innova Hycross GX 7STR (Petrol),19.77 ,1987 ,16.13 
+1562,Toyota Innova Hycross GX 8STR (Petrol),19.82 ,1987 ,16.13 
+1563,Toyota Innova Hycross GX (O) 8STR (Petrol),20.99 ,1987 ,16.13 
+1564,Toyota Innova Hycross GX (O) 7STR (Petrol),21.13 ,1987 ,16.13 
+1565,Toyota Innova Hycross VX 7STR Hybrid (Petrol),25.97 ,1987 ,23.24 
+1566,Toyota Innova Hycross VX 8STR Hybrid (Petrol),26.02 ,1987 ,23.23 
+1567,Toyota Innova Hycross VX(O) 7STR Hybrid (Petrol),27.94 ,1987 ,23.24 
+1568,Toyota Innova Hycross VX(O) 8STR Hybrid (Petrol),27.99 ,1987 ,23.23 
+1569,Toyota Innova Hycross ZX Hybrid (Petrol),30.34 ,1987 ,23.24 
+1570,Toyota Innova Hycross ZX(O) Hybrid (Petrol),30.98 ,1987 ,23.24 
+1571,Audi Q8 e-tron 50 Quattro (Electric),,,
+1572,Audi Q8 e-tron 55 Quattro (Electric),,,
+1573,Mercedes-Benz AMG GLA 35 4MATIC (Petrol),58.50 ,1991 ,
+1574,Maruti Super Carry Cab Chassis (Petrol),5.16 ,1196 ,
+1575,Maruti Super Carry STD (Petrol),5.30 ,1196 ,
+1576,Maruti Super Carry STD CNG (CNG),6.30 ,1196 ,
+1577,Mercedes-Benz AMG GT 4 Door Coupe 63 S E Performance (Petrol),,3982 ,
+1578,Audi RS Q8 4.0 TFSI Quattro (Petrol),,3998 ,8.26 
+1579,Maruti Eeco Cargo STD (Petrol),5.42 ,1197 ,20.2 
+1580,Maruti Eeco Cargo STD CNG (CNG),6.32 ,1197 ,
+1581,Maruti Eeco Cargo STD AC CNG (CNG),6.74 ,1197 ,
+1582,Mercedes-Benz AMG E 53 Cabriolet 4MATIC Plus (Petrol),,2998 ,
+1583,Mercedes-Benz AMG GT 4 Door Coupe 63 S E Performance (Petrol),,3982 ,
+1584,Toyota Innova Hycross GX 7STR (Petrol),19.77 ,1987 ,16.13 
+1585,Toyota Innova Hycross GX 8STR (Petrol),19.82 ,1987 ,16.13 
+1586,Toyota Innova Hycross GX (O) 8STR (Petrol),20.99 ,1987 ,16.13 
+1587,Toyota Innova Hycross GX (O) 7STR (Petrol),21.13 ,1987 ,16.13 
+1588,Toyota Innova Hycross VX 7STR Hybrid (Petrol),25.97 ,1987 ,23.24 
+1589,Toyota Innova Hycross VX 8STR Hybrid (Petrol),26.02 ,1987 ,23.23 
+1590,Toyota Innova Hycross VX(O) 7STR Hybrid (Petrol),27.94 ,1987 ,23.24 
+1591,Toyota Innova Hycross VX(O) 8STR Hybrid (Petrol),27.99 ,1987 ,23.23 
+1592,Toyota Innova Hycross ZX Hybrid (Petrol),30.34 ,1987 ,23.24 
+1593,Toyota Innova Hycross ZX(O) Hybrid (Petrol),30.98 ,1987 ,23.24 
+1594,Hyundai IONIQ 5 Long Range RWD (Electric),46.05 ,,
+1595,Aston Martin Vantage V8 (Petrol),,3998 ,
+1596,Maruti Swift Dzire Tour S (O) (Petrol),6.51 ,1197 ,23.15 
+1597,Maruti Swift Dzire Tour S CNG (O) (CNG),7.46 ,1197 ,
+1598,Hyundai i20 N-Line N6 (Petrol),,998 ,
+1599,Hyundai i20 N-Line N6 Dual Tone (Petrol),10.19 ,998 ,
+1600,Hyundai i20 N-Line N6 DCT (Petrol),11.15 ,998 ,
+1601,Hyundai i20 N-Line N8 (Petrol),11.27 ,998 ,
+1602,Hyundai i20 N-Line N6 DCT Dual Tone (Petrol),11.30 ,998 ,
+1603,Hyundai i20 N-Line N8 Dual Tone (Petrol),11.42 ,998 ,
+1604,Hyundai i20 N-Line N8 DCT (Petrol),12.37 ,998 ,
+1605,Hyundai i20 N-Line N8 DCT Dual Tone (Petrol),12.52 ,998 ,
+1606,Audi Q8 Sportback e-tron 50 Quattro (Electric),,,
+1607,Audi Q8 Sportback e-tron 55 Quattro (Electric),,,
+1608,Force Gurkha 5 Door Diesel (Diesel),,2596 ,
+1609,Audi A8 L Celebration (Petrol),,2995 ,
+1610,Audi A8 L Technology (Petrol),,2995 ,
+1611,Audi Q3 Sportback 40TFSI Quattro (Petrol),54.76 ,1984 ,
+1612,Audi Q3 Sportback Bold Edition (Petrol),55.71 ,1984 ,
